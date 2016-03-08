@@ -8,42 +8,44 @@
 - Stress productivity and flow 
 - Coping with stress 
 - Paying attention
-	- Physical
-	- Digital
-	- Mental 
+    - Physical
+    - Digital
+    - Mental 
 - Mindfulness 
 - Meditation 
 - Small group discussion on implementation 
 - Share group findings and reflections 
 - Summary and contact information
 
-### Bonus topics
+#### Bonus topics
 - Main causes of stress
 - Yoga in relationship to mindfulness & meditation
 - Deep breathing
 - Gratitude & perspective
-- When is mindfulness a bad idea?
+- The pro's of not being mindful
 - Zen
+- Meditation & achievement
+- Emotional intelligence
+- Breathing
+- Types of meditation
+- Other ways to train mindfulness
+- The neuroscience of distraction
 
 ## Introduction
-My name is Mattis. I started out as a Scrum Master and project manager pretty early, at the age of 21. A few years ago, I had to visit the hospital because experienced pressure over my chest. A physiotherapist taught me how to cope with stress in a healthy way.
+My name is Mattis. I started out as a Scrum Master and project manager at the age of 21. A few years later, I had to visit the hospital because of a pressure over my chest. The doctors said there was nothing wrong with me - I was just stressed. Which seemed weird to me, because I didn't feel stressed. I just did things I enjoyed - worked, trained, toured with my band, played Dungeons & Dragons ...
 
-After that, I started learning more about how stress affects the individual, a team, an organization and even society. I started this Company - Lightly - to help teams prevent stress and become more productive.
+A physiotherapist taught me a few methods that helped me be more calm and focused. After that, I started learning more about how stress affects the individual, a team, an organization, and even society. I started this Company - Lightly - to help teams prevent stress and become more productive.
 
-I'm not a doctor or therapists. I've just found things that worked for me and that are backed by science and that I want to share with you.
+I'm not a doctor or therapists. I've just found things that worked for me and that are backed by science and that I want to share with you. You should question everything for yourself - Google the science behind it, try it out, see if it works. Please ask me during the workshop if there's anything you need me to clarify. 
 
-This workshop will have two parts. First, I'll do a talk on stress, focus, flow, methods to increase focus and decrease anxiety. After that, we'll do a discussion and Q&A. I promise you that I'll stay after the workshop and answer any questions that we didn't have time to go through.
-
-If there is anything you wish me to clarify during the talk, please raise your hand and let me know.
+I promise you that I will stay after the workshop for as long as you want me to and talk more. My next session is tomorrow at lunch. However, I will not be able to stop too long at a single topic during the talk itself. If I cut you off, just stay afterward and continue the discussion then.
 
 ## Start with why
 Why did you sign up for this session? What's the problem? Why are we not calm and focused already?
 
-[wait for participants answers]
-
 Mental illness is the number one reason for sick leave in Sweden. High stress levels is one of the main causes of mental illness. And still, we *accept* people to be stressed out. What I will try to say in this workshop is:
 
-Don't accept it. If you hear about someone being burned out, that is a minor tragedy. A workplace that doesn't take that seriously is not a great place to work.
+Don't accept it. A workplace that doesn't take burnouts seriously is not a great place to work.
 
 The data is right here. Mental illness is the number one reason for sick leave. Let's forget about the moral parts of this, and just look at it from a business perspective:
 
@@ -53,11 +55,13 @@ The data is right here. Mental illness is the number one reason for sick leave. 
 - Increase employee well-being -> increased employee retention.
 - Increased well-being -> talent attraction.
 
+So these are our four "whys". 
+
 I think one of the main reasons we have this problem is that we don't understand stress. We think it's no big deal. 
 
 ## How stress affects the body
 Your body basically has two modes:
-The "Fight or Flight mode" (the sympathethic autonomous nervous system) which helps you fight bears and run away from danger. Increased heart rate, sweating, dilated pupils. And the "Rest & Digest mode" which build up the immune system and, as the name suggests, digests food.
+The "Fight or Flight mode" (the sympathetic autonomous nervous system) which helps you fight bears and run away from danger. Increased heart rate, sweating, dilated pupils. And the "Rest & Digest mode" which build up the immune system and, as the name suggests, digests food.
 
 We activate the Fight or Flight mode when we're stressed. That's OK - for a while. But what happens when we're in this mode for a longer time period?
 
@@ -68,7 +72,7 @@ We activate the Fight or Flight mode when we're stressed. That's OK - for a whil
 - Memory loss
 - Less concentration
 
-Stress was previously thought to cause cancer, but I haven't found any evidence that supports that. However, stress makes us prone to fall back on bad habits like smoking, drinking and eating sugar, which in turn cause diseases.
+Stress was previously thought to cause cancer, but I haven't found any evidence that supports that. However, stress makes us prone to fall back on bad habits like smoking, drinking and eating sugar, which in turn cause a bunch of diseases.
 
 From a personal standpoint, ask yourselves which version of yourself you are when you're stress. How's your patience? Your communication skills? Your memory?
 
@@ -81,7 +85,7 @@ This is what strikes me as most weird about stress. It's obviously making us bad
 Perhaps it's easier to understand if we look at our history as a species.
 
 ## An evolutionary look at stress
-We're still monkeys, you know. The industrial revolution and the digital revolution are super short when looking at them from an evolutionary standpoint. Even tough our societys have changed fast, our bodies haven't.
+We're still monkeys, you know. The industrial revolution and the digital revolution are super short when looking at them from an evolutionary standpoint. Even tough our society have changed fast, our bodies haven't.
 
 And that includes our brains.
 
@@ -90,18 +94,24 @@ We've updated the environment, but the software is still the same version. That 
 
 And who's going to change that?
 
-Our responses to tough situations - like a deadline - are the same as a caveperson had to fighting a mammoth. The challenges are completely different, and yet we react in the same way.
+Our responses to tough situations - like a deadline - are the same as a caveperson had to fight a mammoth. The challenges are completely different, and yet we react in the same way.
 
 Sweating doesn't help you write better emails. We still have physical reactions towards stress, even tough our "dangers" are mostly intellectual or social.
 
 What was a danger to a caveperson is not a danger for us. Let's say you don't like me. You don't want me to come back. That would make me anxious. Why? Does it matter?
 
-For a caveperson, it did. Being excluded from a tribe was the same thing as being left for dead. Our bodies haven't caught up with our new reality. My new reality is: there are no real danger. For me, right now, there is no danger. 
+For a caveperson, it did. Being excluded from a tribe was the same thing as being left for dead. Our bodies haven't caught up with our new reality. My new reality is: there is no real danger. For me, right now, there is no danger. 
+
+When we act as if stress is OK, or that it's not affecting us in these obvious ways, we get into trouble. Remember: mental illness is the number one reason for sick leave.
+
+So why do we keep wanting people to be stressed?
+
+Because we want to be productive.
 
 ## Stress, productivity and flow
 [slide with Yerkes-Dodson graph, showing the relationship between productivity and stress on a bell curve]
 
-Everything in this world can be plotted on an bell-curve. Even the relationship between stress and productivity.
+Everything in this world can be plotted on a bell-curve. Even the relationship between stress and productivity.
 
 Now, why is productivity de-creased when we are stressed?
 
@@ -113,11 +123,15 @@ Now, why is productivity de-creased when we are stressed?
 - Creativity
 - Leadership
 
-And the weird part is: we accept stress. In some workplaces, we even encourage stress. Why?
+So, stress increases productivity. Up until a point. But many leaders I've met have only one button to push: the "increase stress"-button. Why? Why do we want to push people beyond this peak?
 
-Because stress *feels productive.*
+Because stress *feels productive.* We run around, send a bunch of emails, book meetings, write on Slack. We do lot's of things. But don't mistake motion for progress.
 
-This peak-productivity is also called flow. If we're too stressed - or not stressed enough - we wont't be able to get there. How do we increase stress? Challenging, meaningful tasks + direct feedback. (But not too challenging, we don't want to feel overwhelmed.)
+What's another name for this place of peak productivity, where we are very productive but not very stressed?
+
+Flow. If we're too stressed - or not stressed enough - we won't be able to get there. 
+
+How do we increase stress? Challenging, meaningful tasks + direct feedback. (But not too challenging, we don't want to feel overwhelmed.)
 
 You need at least fifteen minutes of uninterrupted work to get into a state of flow. How many times a day do you get to be uninterrupted for fifteen minutes?
 
@@ -128,15 +142,12 @@ So we've built a culture where we *keep people from their maximum potential*.
 We know how to increase stress - if now, we can always use Red Bull - but how about decreasing stress?
 
 ## Coping with stress
-[ask the audience how they decrease stress]
+What methods do you currently use to decrease stress?
 
 - Workouts
 - Family and friends
 - Sugar, alcohol, smoking, sex
 - Creative endeavours
-
-Other methods:
-
 - Diary
 - Therapy
 - Nature
@@ -144,19 +155,18 @@ Other methods:
 If we have all of these methods available - what's the problem?
 
 1. We're not taking the time to decrease stress. We're not prioritizing it.
-2. We're constantly online and available.
+2. We're constantly online and available. We try to pay attention to everything, and, therefore, we have a hard time paying attention to anything.
 3. Some of our jobs don't have feedback loops that let's us know when we are done.
-4. We have no data on how's close to a burnout and who's not. We speka about stress in a binary way ("are you stressed or not?") while it's actually on a scale.
+4. We have no data on how's close to a burnout and who's not. We speak about stress in a binary way ("are you stressed or not?") while it's actually on a scale.
 
-When I work with a team, we look at all of these factors. Today, I'm going to talk about one of these: how we pay attention.
+When I work with a team, we look at all of these factors. Today, I'm just going to talk about one of these: how we pay attention.
 
 ## Paying attention
-What causes stress and how we handle it depends on how we *pay attention.* We all have an attention budget that we choose how to spend.
+We all have an attention budget that we choose how to spend.
 
-I'm going to write some code.
-I have my Terminal and Atom and Postman up and running. I also have Slack. And Facebook on my phone. And Telegram. And I'm sitting in a office where there's people moving about. And I'm listening to music because I'm trying to focus. And I'm worried about something going on at home.
+Let's say I'm going to write some code. I have my Terminal and Atom and Postman up and running. I also have Slack. And Facebook on my phone. And Telegram. And I'm sitting in an office where there're people moving about. And I'm listening to music because I'm trying to focus. And I'm worried about something going on at home. And I'm thinking about that meeting we had this morning. Why didn't that person say hi to me when we met at the coffee machine?
 
-In this example, how am I paying my attention? How am I distributing my budget? And how will that affect the quality of my code?
+In this example, how am I paying my attention? How am I distributing my budget? How much attention am I paying to the actual work? And how will that affect the quality of my code?
 
 We know that multi-tasking is not as effective as multi-tasking. So why do we keep on doing it? Because, again, it *feels* productive.
 
@@ -182,15 +192,15 @@ Slack.
 
 Again, we need to collaborate. But what happens if you're constantly half-working, half-chatting, being available on your phone *and* available to those sitting next to you?
 
-TODO: Phone distractions... try to turn them off during the rest of the workshop. Prove that you're not addicted.
+Some say that we're addicted to our distractions. But that's not true is it? Let's try and experiment. Can you turn off - I mean completely off - your phone for 45 minutes? Let's try it.
 
 No wonder it's hard to stay calm & focused.
 
 I recommend that you start using these two apps to help fight the problem:
 1. Self-Control, which shuts down a list of websites.
-2. Freedom, that shuts down internet.
+2. Freedom, that shuts down the internet.
 
-"Woah, I can't work without the internet." Of course you can. Do pomodors of 45 minutes without the internet, and then spend 15 do find out the information you need. I write my best emails offline.
+"Woah, I can't work without the internet." Of course you can. Do pomodoros of 45 minutes without the internet, and then spend 15 do find out the information you need. I write my best emails offline.
 
 ### Mental
 When we've removed physical and digital distractions, we'll find out there's another layer to the problem: our mental distractions.
@@ -202,16 +212,16 @@ Sometimes we need to do this. But we also spend a lot of time worrying for no go
 There are a bunch of different methods to handle your mental distractions:
 1. Write everything down.
 2. Talk to a friend / coworker / boss.
-3. Force yourself into flow by doing something challenging and meaningful. It's hard to worry about the future if you're riding a mountain bike or playing brazilian jiu-jitsu.
+3. Force yourself into flow by doing something challenging and meaningful. It's hard to worry about the future if you're riding a mountain bike or playing Brazilian jiu-jitsu.
 
 And there's also mindfulness.
 
 ## Mindfulness
 [ask the audience what mindfulness is]
 
-There are a bunch of different definitions. "Paying attention in the present moment." If you ask a buddhist monk, they'd say that mindfulness is much more than that: if we go out for lunch and you pick the beef, that's not very mindful of you.
+There are a bunch of different definitions. "Paying attention in the present moment." If you ask a Buddhist monk, they'd say that mindfulness is much more than that: if we go out for lunch and you pick the beef, that's not very mindful of you.
 
-For this reason, I rarely use mindfulness in my teaching. There are other words available that can get the job done, without the confusion. If you can switch mindfulness for presence or awareness, you should.
+For this reason, I rarely use mindfulness in my teaching. There are other words available that can get the job done, without the confusion. When I can switch mindfulness for presence or awareness, it almost always makes things clearer.
 
 The whole point of mindfulness is this: our stress often comes from looking ahead. There's usually nothing *right now* that's dangerous. If we just stay in this moment, we don't have to be bothered by stress.
 
@@ -222,7 +232,7 @@ Now, what you'll realize, is that it's super hard to pay attention to the presen
 This is why we have meditation.
 
 ## Meditation
-Meditation came up as a religious or philosophical technique to explore the nature of conciousness and to get rid of the illusion of the Self. As a side effect, meditators got very ... yes, calm and focused.
+Meditation came up as a religious or philosophical technique to explore the nature of consciousness and to get rid of the illusion of the Self. As a side effect, meditators got very ... yes, calm and focused.
 
 So we're hacking this by using meditation for it's side effects.
 
@@ -234,20 +244,40 @@ Just sit down and breathe. Find a focus point, such as the breath going in and o
 
 [ask the audience what they experienced]
 
+So what we're doing is training ourselves to stay in the present moment. Mind wanders, mind comes back. Repeat.
+
 Meditation is, as far as I know, the best method to increase calm and focus. There has been a number of studies supporting this in the last couple of years and I encourage you to Google the science behind this for your self.
 
-There are a bunch of apps and trinkets, like a headband that helps you meditate using bio-feedback, to help you with your practice. Headspace is the most popular but also the most expensive. In the notes to this workshop you'll find links to great books, apps and tools to help you.
+There are a bunch of apps and trinkets, like a headband that helps you meditate using bio-feedback, to help you with your practice. Headspace is the most popular but also the most expensive. In the notes to this workshop, you'll find links to great books, apps, and tools to help you.
 
 ## Group discussions
 Make groups of 3-5 people and discuss how you could increase your teams calm and focus. In ten minutes I'll play a song, and that's your cue to stop talking.
 
-## Generel discussion
+## General discussion
 [ask the groups if any of them wish to share what they came up with]
 
 ## Summary
-- What looks/feels productive might not actually be.
+- What looks/feels productive might not actually be. Be very selective with your attention - it is your most critical resource.
 - Investing time in managing your wetware has high ROI, because everything else you do depends on it.
 - Mindfulness meditation is the best way to increase your ability to stay calm and focused (that I'm aware of).
+
+## Bonus topics
+[If there is time available, ask the participants if they'd like some more information on any of these topics:]
+
+- Main causes of stress
+- Yoga in relationship to mindfulness & meditation
+- Deep breathing
+- Gratitude & perspective
+- The pro's of not being mindful
+- Zen
+- Meditation & achievement
+- Emotional intelligence
+- Breathing
+- Types of meditation
+- Other ways to train mindfulness
+- The neuroscience of distraction
+
+## Q&A
 
 ## Contact information
 - Find me on Twitter: @mattisern

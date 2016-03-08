@@ -1,5 +1,11 @@
 # Books, apps & tools
 
+## Free guided meditations
+- [Tara Brach](https://www.tarabrach.com/guided-meditations/)
+- [UCLA Mindfulness Research Centre](http://marc.ucla.edu/body.cfm?id=22)
+- [Lightly.io/Meditation](http://lightly.io/meditation)
+- [Spotify playlist](https://open.spotify.com/user/spotify/playlist/7BI8kVITNyvDtW4x7lf3qq)
+
 ## Books
 I've put a star (*) next to the books I think you'll find most rewarding.
 
@@ -16,7 +22,7 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 ####	Organization
 -	Salim Ismail - Exponential Organizations* 
 -	Frederic Laloux - Reinventing Organizations* 
--	Fred Kofman - Concious Business  
+-	Fred Kofman - Conscious Business  
 
 
 ####	Philosophy
@@ -25,7 +31,7 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 -	Tara Brach – Radical Acceptance 
 -	Alan de Botton – Religion for Atheists * 
 -	Dhammapadda 
--	Aldoux Huxley – The Perennial Philosophy * 
+-	Aldous Huxley – The Perennial Philosophy * 
 -	Sam Harris – Waking Up 
 -	Walpota Rahula – What the Buddha Taught 
 -	Seneca – Letters From A Stoic 
@@ -77,6 +83,10 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 
 **Thriver** is the product I'm working on. In addition to meditations, Thriver also helps your organization track stress levels on a team basis.
 
+**Self-Control** shuts down distracting websites.
+
+**Freedom** shuts down your internet connection. :)
+
 ## Tools
 I recommend looking at Amazon reviews for all of these products before ordering them. These are still early prototypes, and I think we're a year or so from having solid products in this space.
 
@@ -85,3 +95,9 @@ I recommend looking at Amazon reviews for all of these products before ordering 
 **Spire** is a clip you put on your belt that supposed to measure breathing, and thus your level of stress. I bought one of these but stopped using it after a week because it had too many bugs in both the firmware and software.
 
 **Muse Headband** measures your brain activity and gives you bio-feedback while you're meditating.
+
+## Podcasts
+- Buddha at the Gas Pump
+- Joseph Goldstein
+- Jack Kornfield
+- On Being
