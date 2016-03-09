@@ -1,21 +1,33 @@
 # Workshop: Calm & Focused
 
-## Contents
+## Introduction
+My name is Mattis. I started out as a Scrum Master and project manager at the age of 21. A few years later, on my way to Gothenburg to play a show with my band, I had to visit the hospital because of a pressure over my chest. The doctors said there was nothing wrong with me - I was just stressed. Which seemed weird to me, because I didn't feel stressed. I just did things I enjoyed - worked, trained, played with my band, some Dungeons & Dragons ...
+
+A physiotherapist taught me a few methods that helped me calm down. After that, I started learning more about how stress affects the individual, a team, an organization, and even society. I started this company - Lightly - to help companies prevent stress *and* become more productive.
+
+I'm not a doctor or therapists. I've just found things that worked for me and that are backed by science and that I want to share with you. You should question everything for yourself - Google the science behind it, try it out, see if it works. Please ask me during the workshop if there's anything you need me to clarify. 
+
+I promise you that I will stay after the workshop for as long as you want me to and talk more. I'm having dinner with my family at six, but I will stay until then. However, I will not be able to stop too long at a single topic during the talk itself. If I cut you off, just stay afterward and continue the discussion then.
+
+This is what we're going to talk about today:
+
+#### Contents
 - Introduction 
 - Start with why
 - How stress affects the body 
 - An evolutionary look at stress 
 - Stress productivity and flow 
 - Coping with stress 
-- Paying attention
-    - Physical
-    - Digital
-    - Mental 
+- Limiting distractions
+    - Outer
+    - Inner
 - Mindfulness 
 - Meditation 
 - Small group discussion on implementation 
 - Share group findings and reflections 
 - Summary and contact information
+
+I've also tried to squeeze in much more, but I've taken it out again. Because, you know, we don't want this workshop to cause stress. However, I'd just like to show you the list of topics that didn't make it. Perhaps that will give you a clue on where to go after this workshop. So, this is what we're *not* going to talk about today:
 
 #### Bonus topics
 - Main causes of stress
@@ -30,15 +42,9 @@
 - Types of meditation
 - Other ways to train mindfulness
 - The neuroscience of distraction
+- Hierarchy of communication
 
-## Introduction
-My name is Mattis. I started out as a Scrum Master and project manager at the age of 21. A few years later, I had to visit the hospital because of a pressure over my chest. The doctors said there was nothing wrong with me - I was just stressed. Which seemed weird to me, because I didn't feel stressed. I just did things I enjoyed - worked, trained, toured with my band, played Dungeons & Dragons ...
-
-A physiotherapist taught me a few methods that helped me be more calm and focused. After that, I started learning more about how stress affects the individual, a team, an organization, and even society. I started this Company - Lightly - to help teams prevent stress and become more productive.
-
-I'm not a doctor or therapists. I've just found things that worked for me and that are backed by science and that I want to share with you. You should question everything for yourself - Google the science behind it, try it out, see if it works. Please ask me during the workshop if there's anything you need me to clarify. 
-
-I promise you that I will stay after the workshop for as long as you want me to and talk more. My next session is tomorrow at lunch. However, I will not be able to stop too long at a single topic during the talk itself. If I cut you off, just stay afterward and continue the discussion then.
+But before we get started with these weird techniques, we need to ask ourselves the big question: *why*.
 
 ## Start with why
 Why did you sign up for this session? What's the problem? Why are we not calm and focused already?
@@ -47,15 +53,15 @@ Mental illness is the number one reason for sick leave in Sweden. High stress le
 
 Don't accept it. A workplace that doesn't take burnouts seriously is not a great place to work.
 
-The data is right here. Mental illness is the number one reason for sick leave. Let's forget about the moral parts of this, and just look at it from a business perspective:
+The data is right here. Mental illness is the number one reason for sick leave. Let's forget about the moral parts of this, and just look at it from a business perspective: 
 
 #### Prioritizing stress management
-- Less sick leave -> savings.
-- More focus -> higher quality -> better product -> increased revenue.
+- Less sick leave -> savings. (1 burnout = 500KSEK)
+- Less stress -> More focus -> higher quality -> better product -> increased revenue.
 - Increase employee well-being -> increased employee retention.
 - Increased well-being -> talent attraction.
 
-So these are our four "whys". 
+So these are our four *whys*. Productivity, savings and talent retention/attraction. 
 
 I think one of the main reasons we have this problem is that we don't understand stress. We think it's no big deal. 
 
@@ -102,7 +108,11 @@ What was a danger to a caveperson is not a danger for us. Let's say you don't li
 
 For a caveperson, it did. Being excluded from a tribe was the same thing as being left for dead. Our bodies haven't caught up with our new reality. My new reality is: there is no real danger. For me, right now, there is no danger. 
 
-When we act as if stress is OK, or that it's not affecting us in these obvious ways, we get into trouble. Remember: mental illness is the number one reason for sick leave.
+The part of your brain responsible for identifying and reacting to danger is called the amygdala. It's been around for a loooong time. Whereas your reasoning, intelligent self - the prefrontal cortex - is much newer. We could say that the amygdala is in an 1.0, final and live, and the pre-frontal cortex is still in beta. 
+
+Therefore, the amygdala has the power to hijack the rest of the brain. If the amygdala sense some sort of danger, it can control our bodies fully. Even when our reasoning selves realize that there is nothing to worry about, the amygdala will hijack our body and make us ready for battle.
+
+Now, remember: mental illness is the number one reason for sick leave. What we think about life and work actually affects our bodies to the point where we can't even get to work.
 
 So why do we keep wanting people to be stressed?
 
@@ -126,6 +136,10 @@ Now, why is productivity de-creased when we are stressed?
 So, stress increases productivity. Up until a point. But many leaders I've met have only one button to push: the "increase stress"-button. Why? Why do we want to push people beyond this peak?
 
 Because stress *feels productive.* We run around, send a bunch of emails, book meetings, write on Slack. We do lot's of things. But don't mistake motion for progress.
+
+This bell curve looks different depending on the task. Let's say I'm a brain surgeon, about to perform surgery on your brain. How stressed to you want me to be on a scale from 1-10? And let's say I'm washing dishes. Where's my best stress level? The bell curve changes depending on the complexity and nature of the task.
+
+Now, ask yourselves - what kind of tasks am I doing? Am I more of a brain surgeon or a dishwasher? What I find when I work with teams is that it differs. A project manager might be closer to washing dishes, where writing code is closer to surgery. But: they're equally stressed. And puzzled about the quality of the code ...
 
 What's another name for this place of peak productivity, where we are very productive but not very stressed?
 
@@ -161,7 +175,7 @@ If we have all of these methods available - what's the problem?
 
 When I work with a team, we look at all of these factors. Today, I'm just going to talk about one of these: how we pay attention.
 
-## Paying attention
+## Limiting distractions
 We all have an attention budget that we choose how to spend.
 
 Let's say I'm going to write some code. I have my Terminal and Atom and Postman up and running. I also have Slack. And Facebook on my phone. And Telegram. And I'm sitting in an office where there're people moving about. And I'm listening to music because I'm trying to focus. And I'm worried about something going on at home. And I'm thinking about that meeting we had this morning. Why didn't that person say hi to me when we met at the coffee machine?
@@ -174,7 +188,7 @@ When I'm saying yes to one of these things, I'm also saying no to something else
 
 In this case, *subtraction is success.*
 
-### Physical
+### Outer
 [example of workspace]
 The first thing we need to do is to limit physical distractions. Look at your average workspace. There are people trying to grab your attention, walking around, shouting ...
 
@@ -184,7 +198,6 @@ If we force our co-workers to work in an environment that's distraction-inclined
 
 Yes - we need to collaborate. But if I'm constantly interrupted ... perhaps we are collaborating *too much*?
 
-### Digital
 [example of windows including Slack ...]
 
 What would you call a meeting that went on all day, with no agenda?
@@ -202,7 +215,7 @@ I recommend that you start using these two apps to help fight the problem:
 
 "Woah, I can't work without the internet." Of course you can. Do pomodoros of 45 minutes without the internet, and then spend 15 do find out the information you need. I write my best emails offline.
 
-### Mental
+### Inner
 When we've removed physical and digital distractions, we'll find out there's another layer to the problem: our mental distractions.
 
 We are prone to mind-wandering. Thinking about the past, the future. One definition of intelligence is to create different mental scenarios and evaluate them. We're searching for possible dangers that we need to manage.
@@ -250,40 +263,30 @@ Meditation is, as far as I know, the best method to increase calm and focus. The
 
 There are a bunch of apps and trinkets, like a headband that helps you meditate using bio-feedback, to help you with your practice. Headspace is the most popular but also the most expensive. In the notes to this workshop, you'll find links to great books, apps, and tools to help you.
 
+Remember this: meditation is like jogging. It's simple. The hard thing is actually taking the time. It's easy to get caught up in different techniques, traditions, apps - but that mostly keeps you away from actually doing it. Don't let anyone sell you anything. There are no licenses required to start meditating. It's like jogging. If you want get advanced - sure, perhaps it's good to have an experienced trainer. But for most of us, that's not the case.
+
 ## Group discussions
-Make groups of 3-5 people and discuss how you could increase your teams calm and focus. In ten minutes I'll play a song, and that's your cue to stop talking.
+Make groups of 3-5 people and discuss how you could increase your teams calm and focus. In ten minutes I'll play a song, and that's your cue to stop talking. I'll then ask you to share your reflections with the group at large.
+
+[wait 10 minutes]
 
 ## General discussion
 [ask the groups if any of them wish to share what they came up with]
 
 ## Summary
-- What looks/feels productive might not actually be. Be very selective with your attention - it is your most critical resource.
-- Investing time in managing your wetware has high ROI, because everything else you do depends on it.
+- What looks/feels productive might not actually be. Be very selective with your attention. It is your most critical resource.
+- Investing time in managing your brain has high ROI, because everything else you do depends on it.
 - Mindfulness meditation is the best way to increase your ability to stay calm and focused (that I'm aware of).
 
-## Bonus topics
-[If there is time available, ask the participants if they'd like some more information on any of these topics:]
+As I said in the beginning, this is just a brief introduction to all of this field of thought. There is so much more to learn, test and discuss.
 
-- Main causes of stress
-- Yoga in relationship to mindfulness & meditation
-- Deep breathing
-- Gratitude & perspective
-- The pro's of not being mindful
-- Zen
-- Meditation & achievement
-- Emotional intelligence
-- Breathing
-- Types of meditation
-- Other ways to train mindfulness
-- The neuroscience of distraction
-
-## Q&A
+I'll stick around for as long as you want to, but if you'd rather keep in touch online, you can reach me on ...
 
 ## Contact information
-- Find me on Twitter: @mattisern
+- Twitter: @mattisern
 - LinkedIn: Mattis Erngren
 - Email: mattis@lightly.io
 
-You can find all the notes for this workshop, including suggested further reading, on GitHub: github.com/mattisern
+You can find all the notes for this workshop, including suggested further reading, on GitHub: [github.com/mattisern](http://github.com/mattisern)
 
 I'll be sticking around to answer more of your questions and discussing this. Thank you so much for your time!

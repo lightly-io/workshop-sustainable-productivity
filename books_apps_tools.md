@@ -5,6 +5,7 @@
 - [UCLA Mindfulness Research Centre](http://marc.ucla.edu/body.cfm?id=22)
 - [Lightly.io/Meditation](http://lightly.io/meditation)
 - [Spotify playlist](https://open.spotify.com/user/spotify/playlist/7BI8kVITNyvDtW4x7lf3qq)
+- [F*ck that - a guided meditation](http://www.funnyordie.com/videos/c6d6848516/f-ck-that-a-guided-meditation?_cc=__d___&_ccid=b04c755435eebf23)
 
 ## Books
 I've put a star (*) next to the books I think you'll find most rewarding.
