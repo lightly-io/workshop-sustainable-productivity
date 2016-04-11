@@ -18,5 +18,9 @@ This workshop is published under the Creative Commons license. It's free to use 
 ## Contributing
 Yes, please! Fork, clone, pull request.
 
+## Todo
+* Add bullet list to top of cheat sheet.
+* Add science file with reference to the latest research in the areas of stress, focus, flow, meditation, mindfulness and organization.
+
 ## Contact
 Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and LinkedIn (Mattis Erngren).
