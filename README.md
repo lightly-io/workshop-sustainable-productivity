@@ -11,6 +11,7 @@ https://github.com/mattisern/team-awareness-training
 * [books_apps_tools.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/books_apps_tools.md) is, as the name suggest, a list of books, apps and tools for meditation.
 * [cheat_sheet.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/cheat_sheet.md) is the notes I use during the talk.
 * [meditation-instruction.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/meditation_instruction.md) is a basic meditation instruction, based on Culadasas mindfulness-concentration practice.
+* [research.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/research.md) is a list of research on meditation, stress, focus, etc. 
 
 ## License
 This workshop is published under the Creative Commons license. It's free to use both in personal and commercial projects, as long as you publish your work under the same license :) Sharing is caring.
@@ -20,7 +21,7 @@ Yes, please! Fork, clone, pull request.
 
 ## Todo
 * Add bullet list to top of cheat sheet.
-* Add science file with reference to the latest research in the areas of stress, focus, flow, meditation, mindfulness and organization.
+* Fill research.md with relevant research on meditation, stress, flow, etc.
 
 ## Contact
 Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and LinkedIn (Mattis Erngren).
