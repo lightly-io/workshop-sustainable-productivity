@@ -11,38 +11,36 @@
 I've put a star (*) next to the books I think you'll find most rewarding.
 
 ####	Neuroscience
--	Norman Doidge – The Brain That Changes Itself * 
--	Rick Hanson – The Buddha's Brain 
--	Michio Kaku – The Future of The Mind 
+-	Norman Doidge – The Brain That Changes Itself *
+-	Rick Hanson – The Buddha's Brain
+-	Michio Kaku – The Future of The Mind
 -	Daniel Levitin – The Organized Mind  
 -	Hana Ros & Matteo Farinella – Neurocomic  
--	Steven Pinker – How The Mind Works 
+-	Steven Pinker – How The Mind Works
+- Brian Rock - Your Brain at Work
 -	... and anything by Oliver Sacks.  
 
-
 ####	Organization
--	Salim Ismail - Exponential Organizations* 
--	Frederic Laloux - Reinventing Organizations* 
+-	Salim Ismail - Exponential Organizations*
+-	Frederic Laloux - Reinventing Organizations*
 -	Fred Kofman - Conscious Business  
-
 
 ####	Philosophy
 -	Jeff Bridges & Bernie Glassman – The Dude & The Zen Master
--	Bhagavadgita 
--	Tara Brach – Radical Acceptance 
--	Alan de Botton – Religion for Atheists * 
--	Dhammapadda 
--	Aldous Huxley – The Perennial Philosophy * 
--	Sam Harris – Waking Up 
--	Walpota Rahula – What the Buddha Taught 
--	Seneca – Letters From A Stoic 
--	Max Tegmark – Our Mathematical Universe 
+-	Bhagavadgita
+-	Tara Brach – Radical Acceptance
+-	Alan de Botton – Religion for Atheists *
+-	Dhammapadda
+-	Aldous Huxley – The Perennial Philosophy *
+-	Sam Harris – Waking Up
+-	Walpota Rahula – What the Buddha Taught
+-	Seneca – Letters From A Stoic
+-	Max Tegmark – Our Mathematical Universe
 -	David Henry Thoreau – Walden  
 -	Thich Nhat Hanh – Fear  
--	Alan Watts – Become What You Are 
--	Alan Watts – The Way of Zen * 
--	Alan Watts – The Wisdom of Insecurity 
-
+-	Alan Watts – Become What You Are
+-	Alan Watts – The Way of Zen *
+-	Alan Watts – The Wisdom of Insecurity
 
 ####	Meditation
 -	Shaila Catherine – Focused & Fearless
@@ -57,7 +55,6 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 -	D.T. Suzuki – Zen Mind, Beginners Mind *
 -	Chade–Meng Tan – Search Inside Yourself *
 
-
 ####	Psychology
 -	Joseph Campbell – The Hero With A Thousand Faces
 -	Joseph Campbell – The Power Of Myth *
@@ -66,16 +63,17 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 -	Daniel Goleman – Emotional Intelligence
 -	Daniel Goleman – Focus *
 -	Viktor Frankl – Man's Search For Meaning *
--	Seneca – Letters From A Stoic 
-
+- The Mayo Clinic Guide To Stress Free Living (don't judge it by it's cover)
 
 #### Poetry & prose
 -	Marcus Aurelius – Meditations
+-	Seneca – Letters From A Stoic
 -	Jack Kerouac – Dharma Bums *
 -	Jack Kerouac – Some of the Dharma
 -	Selected Poems of Rumi
 -	Lao Tzu – Tao Te Ching *
 -	Walt Whitman – Leaves of Grass
+- Herman Hesse - Siddharta
 
 ## Apps
 **Headspace** is a great app for meditation. It's also the most expensive. Try their 10 free sessions and see if you like it.
@@ -88,10 +86,12 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 
 **Freedom** shuts down your internet connection. :)
 
+Other choices include Buddhify, The Mindfulness App and Stop Breathe & Think. I use an app called **Pranayama** to help with my deep breathing. It looks weird, but works like a charm.
+
 ## Tools
 I recommend looking at Amazon reviews for all of these products before ordering them. These are still early prototypes, and I think we're a year or so from having solid products in this space.
 
-**Thync** works by sending signals to your nervous system. You can choose between boosting your calm and your focus. 
+**Thync** works by sending signals to your nervous system. You can choose between boosting your calm and your focus.
 
 **Spire** is a clip you put on your belt that supposed to measure breathing, and thus your level of stress. I bought one of these but stopped using it after a week because it had too many bugs in both the firmware and software.
 
@@ -102,3 +102,7 @@ I recommend looking at Amazon reviews for all of these products before ordering 
 - Joseph Goldstein
 - Jack Kornfield
 - On Being
+- Tara Brach
+- Sam Harris
+- Buddhist Geeks
+- Zencast (#455 with Alan Watts is great!)
