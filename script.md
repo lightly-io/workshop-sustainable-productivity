@@ -1,30 +1,32 @@
 # Workshop: Calm & Focused
 
+**Please note:** I never read this script verbatim. I rarely even have the exact same content. I wrote this just to show an example of how a workshop could be done. That way, you can have something to start from. You should of course change content depending on the crowd and your own ideas, and you should never - ever - read a script :) Just use this as a starting point.
+
 ## Introduction
 My name is Mattis. I started out as a Scrum Master and project manager at the age of 21. A few years later, on my way to Gothenburg to play a show with my band, I had to visit the hospital because of a pressure over my chest. The doctors said there was nothing wrong with me - I was just stressed. Which seemed weird to me, because I didn't feel stressed. I just did things I enjoyed - worked, trained, played with my band, some Dungeons & Dragons ...
 
 A physiotherapist taught me a few methods that helped me calm down. After that, I started learning more about how stress affects the individual, a team, an organization, and even society. I started this company - Lightly - to help companies prevent stress *and* become more productive.
 
-I'm not a doctor or therapists. I've just found things that worked for me and that are backed by science and that I want to share with you. You should question everything for yourself - Google the science behind it, try it out, see if it works. Please ask me during the workshop if there's anything you need me to clarify. 
+I'm not a doctor or therapists. I've just found things that worked for me and that are backed by science and that I want to share with you. You should question everything for yourself - Google the science behind it, try it out, see if it works. Please ask me during the workshop if there's anything you need me to clarify.
 
 I promise you that I will stay after the workshop for as long as you want me to and talk more. I'm having dinner with my family at six, but I will stay until then. However, I will not be able to stop too long at a single topic during the talk itself. If I cut you off, just stay afterward and continue the discussion then.
 
 This is what we're going to talk about today:
 
 #### Contents
-- Introduction 
+- Introduction
 - Start with why
-- How stress affects the body 
-- An evolutionary look at stress 
-- Stress productivity and flow 
-- Coping with stress 
+- How stress affects the body
+- An evolutionary look at stress
+- Stress productivity and flow
+- Coping with stress
 - Limiting distractions
     - Outer
     - Inner
-- Mindfulness 
-- Meditation 
-- Small group discussion on implementation 
-- Share group findings and reflections 
+- Mindfulness
+- Meditation
+- Small group discussion on implementation
+- Share group findings and reflections
 - Summary and contact information
 
 I've also tried to squeeze in much more, but I've taken it out again. Because, you know, we don't want this workshop to cause stress. However, I'd just like to show you the list of topics that didn't make it. Perhaps that will give you a clue on where to go after this workshop. So, this is what we're *not* going to talk about today:
@@ -53,7 +55,7 @@ Mental illness is the number one reason for sick leave in Sweden. High stress le
 
 Don't accept it. A workplace that doesn't take burnouts seriously is not a great place to work.
 
-The data is right here. Mental illness is the number one reason for sick leave. Let's forget about the moral parts of this, and just look at it from a business perspective: 
+The data is right here. Mental illness is the number one reason for sick leave. Let's forget about the moral parts of this, and just look at it from a business perspective:
 
 #### Prioritizing stress management
 - Less sick leave -> savings. (1 burnout = 500KSEK)
@@ -61,9 +63,9 @@ The data is right here. Mental illness is the number one reason for sick leave. 
 - Increase employee well-being -> increased employee retention.
 - Increased well-being -> talent attraction.
 
-So these are our four *whys*. Productivity, savings and talent retention/attraction. 
+So these are our four *whys*. Productivity, savings and talent retention/attraction.
 
-I think one of the main reasons we have this problem is that we don't understand stress. We think it's no big deal. 
+I think one of the main reasons we have this problem is that we don't understand stress. We think it's no big deal.
 
 ## How stress affects the body
 Your body basically has two modes:
@@ -84,9 +86,9 @@ From a personal standpoint, ask yourselves which version of yourself you are whe
 
 Let's ponder this for a few seconds.
 
-What's your main work tool? Your brain, right? So why would you accept your brain to be in a shitty state? Low concentration, low patience, bad memory ... it's like a soccer player accepting that her leg is broken. 
+What's your main work tool? Your brain, right? So why would you accept your brain to be in a shitty state? Low concentration, low patience, bad memory ... it's like a soccer player accepting that her leg is broken.
 
-This is what strikes me as most weird about stress. It's obviously making us bad at work, and yet we accept it as a fact. 
+This is what strikes me as most weird about stress. It's obviously making us bad at work, and yet we accept it as a fact.
 
 Perhaps it's easier to understand if we look at our history as a species.
 
@@ -106,9 +108,9 @@ Sweating doesn't help you write better emails. We still have physical reactions 
 
 What was a danger to a caveperson is not a danger for us. Let's say you don't like me. You don't want me to come back. That would make me anxious. Why? Does it matter?
 
-For a caveperson, it did. Being excluded from a tribe was the same thing as being left for dead. Our bodies haven't caught up with our new reality. My new reality is: there is no real danger. For me, right now, there is no danger. 
+For a caveperson, it did. Being excluded from a tribe was the same thing as being left for dead. Our bodies haven't caught up with our new reality. My new reality is: there is no real danger. For me, right now, there is no danger.
 
-The part of your brain responsible for identifying and reacting to danger is called the amygdala. It's been around for a loooong time. Whereas your reasoning, intelligent self - the prefrontal cortex - is much newer. We could say that the amygdala is in an 1.0, final and live, and the pre-frontal cortex is still in beta. 
+The part of your brain responsible for identifying and reacting to danger is called the amygdala. It's been around for a loooong time. Whereas your reasoning, intelligent self - the prefrontal cortex - is much newer. We could say that the amygdala is in an 1.0, final and live, and the pre-frontal cortex is still in beta.
 
 Therefore, the amygdala has the power to hijack the rest of the brain. If the amygdala sense some sort of danger, it can control our bodies fully. Even when our reasoning selves realize that there is nothing to worry about, the amygdala will hijack our body and make us ready for battle.
 
@@ -143,7 +145,7 @@ Now, ask yourselves - what kind of tasks am I doing? Am I more of a brain surgeo
 
 What's another name for this place of peak productivity, where we are very productive but not very stressed?
 
-Flow. If we're too stressed - or not stressed enough - we won't be able to get there. 
+Flow. If we're too stressed - or not stressed enough - we won't be able to get there.
 
 How do we increase stress? Challenging, meaningful tasks + direct feedback. (But not too challenging, we don't want to feel overwhelmed.)
 
@@ -184,7 +186,7 @@ In this example, how am I paying my attention? How am I distributing my budget? 
 
 We know that multi-tasking is not as effective as multi-tasking. So why do we keep on doing it? Because, again, it *feels* productive.
 
-When I'm saying yes to one of these things, I'm also saying no to something else. You can look at it like a backlog. If I add something new that I'm going to pay attention to, something else is not going to find into this sprint. 
+When I'm saying yes to one of these things, I'm also saying no to something else. You can look at it like a backlog. If I add something new that I'm going to pay attention to, something else is not going to find into this sprint.
 
 In this case, *subtraction is success.*
 
@@ -201,7 +203,7 @@ Yes - we need to collaborate. But if I'm constantly interrupted ... perhaps we a
 [example of windows including Slack ...]
 
 What would you call a meeting that went on all day, with no agenda?
-Slack. 
+Slack.
 
 Again, we need to collaborate. But what happens if you're constantly half-working, half-chatting, being available on your phone *and* available to those sitting next to you?
 
@@ -220,7 +222,7 @@ When we've removed physical and digital distractions, we'll find out there's ano
 
 We are prone to mind-wandering. Thinking about the past, the future. One definition of intelligence is to create different mental scenarios and evaluate them. We're searching for possible dangers that we need to manage.
 
-Sometimes we need to do this. But we also spend a lot of time worrying for no good reason. 
+Sometimes we need to do this. But we also spend a lot of time worrying for no good reason.
 
 There are a bunch of different methods to handle your mental distractions:
 1. Write everything down.
