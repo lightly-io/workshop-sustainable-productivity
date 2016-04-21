@@ -20,7 +20,6 @@ This workshop is published under the Creative Commons license. It's free to use 
 Yes, please! Fork, clone, pull request.
 
 ## Todo
-* Add bullet list to top of cheat sheet.
 * Fill research.md with relevant research on meditation, stress, flow, etc.
 
 ## Contact
