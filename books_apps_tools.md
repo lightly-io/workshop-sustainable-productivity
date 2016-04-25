@@ -80,7 +80,7 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 
 **Calm.com** is another popular choice, and more affordable than Headspace.
 
-**[Thriver]**(http://www.thriver.io) is the product I'm working on. In addition to guided and unguided meditations, Thriver also helps your organization track stress levels on a team basis. The app is free forever with no strings attached.
+[**Thriver**](http://www.thriver.io) is the product I'm working on. In addition to guided and unguided meditations, Thriver also helps your organization track stress levels on a team basis. The app is free forever with no strings attached.
 
 **Self-Control** shuts down distracting websites.
 
