@@ -63,7 +63,7 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 -	Daniel Goleman – Emotional Intelligence
 -	Daniel Goleman – Focus *
 -	Viktor Frankl – Man's Search For Meaning *
-- The Mayo Clinic Guide To Stress Free Living (don't judge it by it's cover)
+- The Mayo Clinic Guide To Stress Free Living (don't judge it by it's cover!) *
 
 #### Poetry & prose
 -	Marcus Aurelius – Meditations
@@ -80,7 +80,8 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 
 **Calm.com** is another popular choice, and more affordable than Headspace.
 
-**Thriver** is the product I'm working on. In addition to meditations, Thriver also helps your organization track stress levels on a team basis.
+[Thriver](http://www.thriver.io) is the product I'm working on. In addition to meditations, Thriver also helps your organization track stress levels on a team basis.
+
 
 **Self-Control** shuts down distracting websites.
 
