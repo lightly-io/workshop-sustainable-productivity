@@ -24,3 +24,65 @@ Yes, please! Fork, clone, pull request.
 
 ## Contact
 Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and LinkedIn (Mattis Erngren).
+
+## Workshop summary
+Key takeaways
+Optimize your team's mental state for flow:
+
+- meaningful, challenging tasks
+- create a distraction-free environment (digital, physical and mental)
+- it’s worth spending time to increase ability to stay calm and focus.
+- … meditation is the best method for this that I'm aware of.
+
+### Stress
+
+- Stress is good – up until a point. See the Yerkes-Dodson law: ∩
+- Many of us spend work hours being more stressed than we should be. Too stressed → low focus, low creativity, low concentration and physical health
+- Stress is caused by workloads, lack of feedback loops, troublesome relationships, and no balance between responsibility and authority, not knowing priorities.
+- Our reactions to stress is result of evolution. Was super good in stoneage for physical threats. Distractions might be life-threatening. ”Threats” / ”danger” is intellectual now. We don't need faster heart beats.
+- We have lots of methods to increase stress: caffeine, notifications, angry customers, mission statements, etc.
+- … but we need more methods to lower stress.
+- … or, just spend more time on the ones we already know.
+
+### Meditation
+
+- started out as a religious tool to increase insight and reach exstatic states of conciousness
+- ”side-effects” include focus, concentration, calm, happiness, presence
+- science have proven these effects in the last couple of years
+- Use meditation in your team to lower stress and increase focus
+- The method is simple: sit down, focus on your breath. Once distracted, bring focus back.
+- Simple method you can use almost anywhere by anyone.
+- Free of charge. No mantras/cushions/bears needed.
+
+### Flow
+
+- state of optimal productivity without stress
+- high levels of flow also related to high levels of happiness
+- different stress levels needed depending on tasks. Mountain bike not same as brain surgery.
+- Need challenging, meaningful tasks and no distractions to get into a state of flow.
+- Feeling of ”f- yeah, I'm good at this” + time disappears → signs of flow
+- Computer games usually easiest way to experience flow.
+
+### Data
+
+- measure teams stress levels to know if where in the right place
+- without data, stress is usually binary: ”are you stressed or not?”
+- binary stress levels not very helpful since everyone in tech is kind of stressed
+- We've built Thriver to do this: www.thriver.io
+- Now you're able to make decision based on data to optimize for flow. Increase or decrease depending on team's state of mind.
+
+### Other
+
+- apps such as Freedom (freedom.to) and Self-Control (selfcontrolapp.com) are helpful to create distraction-free environment. Silent focus rooms – and/or times of day – is usually needed as well.
+- No distractions will need to new levels of communication. Do I really need to send this email, or bother someone in person? Can I write a more thorough email?
+- Don't mistake motion for progress. Genuis inventions look simple from the outside. Lots of noise != productivity.
+- Jack Dorsey, CEO of Twitter & Square, wakes up 30mins early every morning to meditate. Why? Investment of time: rest of day more productive = valuable investment.
+- No need to use the word mindfulness. Just remove distractions and do things that are meaningful and challening. The rest will take care of itself.
+- To prioritze optimal mental states could mean to tell the people to care less about project. Decreased stress → increased productivity → better end result. Counter-intuitive for managers.
+
+### Contact / more information
+
+- Add me on Twitter (@mattisern) or LinkedIn to keep in touch. Feel free to email me as well: mattis@lightly.io
+- Book recommendations: Search Inside Yourself by Chade-Meng Tan if you're curious how Google use these methods, The Mind Illuminated by John Yates (Culadasa) if you're serious about starting a meditation practice, and Flow by Mihaly Czikszentmihaly if that's what you want to know more about.
+- Free guided meditations available if you download Thriver from AppStore / Google Play.
+- My 8-week meditation course is available as open source on GitHub. @mattisern
