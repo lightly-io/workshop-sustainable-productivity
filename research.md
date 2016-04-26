@@ -1,5 +1,6 @@
 # Research
 
+This document is (obviously) not finished. Until it is, you can find a list of research on meditation here:
 http://www.lightly.io/science
 
 https://www.youtube.com/watch?v=Aw71zanwMnY - The science of meditation (ASAP)
