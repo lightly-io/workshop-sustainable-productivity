@@ -12,8 +12,8 @@ https://github.com/mattisern/team-awareness-training
 * [cheat_sheet.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/cheat_sheet.md) is the notes I use during the talk. (This might not make sense to you, since they're my personal notes.)
 * [meditation-instruction.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/meditation_instruction.md) is a basic meditation instruction, based on Culadasas mindfulness-concentration practice.
 * [research.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/research.md) is a list of research on meditation, stress, focus, etc. **TBD**
-* [slides.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/research.md) the slides I use for the workshop.
-* [mindmap.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/research.md) the mindmap I use for the workshop. (This might not make sense to you, since they're my personal notes.)
+* [slides.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/slides.pdf) the slides I use for the workshop.
+* [mindmap.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/mindmap.pdf) the mindmap I use for the workshop. (This might not make sense to you, since they're my personal notes.)
 
 ## License
 This workshop is published under the Creative Commons license. It's free to use both in personal and commercial projects, as long as you publish your work under the same license :) Sharing is caring.
