@@ -76,17 +76,19 @@ I've put a star (*) next to the books I think you'll find most rewarding.
 - Herman Hesse - Siddharta
 
 ## Apps
-**Headspace** is a great app for meditation. It's also the most expensive. Try their 10 free sessions and see if you like it.
+[**Headspace**](http://www.headspace.com) is a great app for meditation. It's also the most expensive. Try their 10 free sessions and see if you like it.
 
-**Calm.com** is another popular choice, and more affordable than Headspace.
+[**Calm.com**](http://www.calm.com) is another popular choice, and more affordable than Headspace.
 
 [**Thriver**](http://www.thriver.io) is the product I'm working on. In addition to guided and unguided meditations, Thriver also helps your organization track stress levels on a team basis. The app is free forever with no strings attached.
 
-**Self-Control** shuts down distracting websites.
+[**Self-Control**](https://selfcontrolapp.com/) shuts down distracting websites.
 
-**Freedom** shuts down your internet connection. :)
+[**Freedom**](https://freedom.to/) shuts down your internet connection. :) I enjoyed their previous version more. It had just a timer, and no options. 
 
 Other choices include Buddhify, The Mindfulness App and Stop Breathe & Think. I use an app called **Pranayama** to help with my deep breathing. It looks weird, but works like a charm.
+
+To improve my sleep I use [f.lux](https://justgetflux.com/).
 
 ## Tools
 I recommend looking at Amazon reviews for all of these products before ordering them. These are still early prototypes, and I think we're a year or so from having solid products in this space.
