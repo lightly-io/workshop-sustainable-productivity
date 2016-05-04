@@ -12,34 +12,35 @@ http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness
 There has been many studies on meditation in the last years. It has been proven to improve everything from immune system to psoriasis. However, few of the studies have had a double-blind placebo control group, so it's hard to know if these effects are caused by placebo. You could argue that if it works, it works. Or maybe it's just good to sit down for a while and not try to achieve. We don't know yet.
 
 Here's a list of studies on meditation, and what they say they've proven that it affects:
-Focus	http://journals.lww.com/neurologynow/Fulltext/2012/08040/MeditationasMedicine.9
-Memory	http://journals.lww.com/neurologynow/Fulltext/2012/08040/MeditationasMedicine.9
-Improve or prevent mental disorder	http://www.pnas.org/content/109/26/10570.abstract
-Ability to withstand pain	http://journals.lww.com/neurologynow/Fulltext/2012/08040/MeditationasMedicine.9
-Immune system	http://clinicaltrials.gov/show/NCT01654289
-Creativity (Facilitates divergent thinking)	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328799/
-Longevity	http://cpx.sagepub.com/content/1/1/75.abstract
-Stress management	http://www.ncbi.nlm.nih.gov/pubmed/21071182
-Sustained attention.	http://pss.sagepub.com/content/21/6/829.short
-Self-regulation (executive attention)	http://www.pnas.org/content/107/35/15649.abstract
-Reducing stress	http://www.ncbi.nlm.nih.gov/pubmed/20141305
-Risk of cardiovascular disease	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2048830/
-Attention and self-regulation (control of stress)	http://www.pnas.org/content/104/43/17152.abstract
-Self-discipline	http://people.ucalgary.ca/~lcarlso/publicationsSubject.html
-Blood pressure	http://www.ncbi.nlm.nih.gov/pubmed/16536641
-Metabolism	http://www.ncbi.nlm.nih.gov/pubmed/16536641
-Brain activity	http://www.ncbi.nlm.nih.gov/pubmed/16536641
-Symptoms of burnout	http://www.ncbi.nlm.nih.gov/pubmed/16728295
-... and thus performance in IQ-tests.	http://pss.sagepub.com/content/16/12/939.short
-Relaxation	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
-Concentration	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
-Patience	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
-Recognition of personal responsibilites	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
-Reaction time	http://www.sciencedirect.com/science/article/pii/019188699190040I
-Lower cortisol levels	http://www.sciencedirect.com/science/article/pii/003193849190543W#
-Intelligence test scores	http://www.sciencedirect.com/science/article/pii/019188699190040I
-Awareness	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
-Perception	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
+
+-	Focus	http://journals.lww.com/neurologynow/Fulltext/2012/08040/MeditationasMedicine.9
+-	Memory	http://journals.lww.com/neurologynow/Fulltext/2012/08040/MeditationasMedicine.9
+-	Improve or prevent mental disorder	http://www.pnas.org/content/109/26/10570.abstract
+-	Ability to withstand pain	http://journals.lww.com/neurologynow/Fulltext/2012/08040/MeditationasMedicine.9
+-	Immune system	http://clinicaltrials.gov/show/NCT01654289
+-	Creativity (Facilitates divergent thinking)	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328799/
+-	Longevity	http://cpx.sagepub.com/content/1/1/75.abstract
+-	Stress management	http://www.ncbi.nlm.nih.gov/pubmed/21071182
+-	Sustained attention.	http://pss.sagepub.com/content/21/6/829.short
+-	Self-regulation (executive attention)	http://www.pnas.org/content/107/35/15649.abstract
+-	Reducing stress	http://www.ncbi.nlm.nih.gov/pubmed/20141305
+-	Risk of cardiovascular disease	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2048830/
+-	Attention and self-regulation (control of stress)	http://www.pnas.org/content/104/43/17152.abstract
+-	Self-discipline	http://people.ucalgary.ca/~lcarlso/publicationsSubject.html
+-	Blood pressure	http://www.ncbi.nlm.nih.gov/pubmed/16536641
+-	Metabolism	http://www.ncbi.nlm.nih.gov/pubmed/16536641
+-	Brain activity	http://www.ncbi.nlm.nih.gov/pubmed/16536641
+-	Symptoms of burnout	http://www.ncbi.nlm.nih.gov/pubmed/16728295
+-	... and thus performance in IQ-tests.	http://pss.sagepub.com/content/16/12/939.short
+-	Relaxation	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
+-	Concentration	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
+-	Patience	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
+-	Recognition of personal responsibilites	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
+-	Reaction time	http://www.sciencedirect.com/science/article/pii/019188699190040I
+-	Lower cortisol levels	http://www.sciencedirect.com/science/article/pii/003193849190543W#
+-	Intelligence test scores	http://www.sciencedirect.com/science/article/pii/019188699190040I
+-	Awareness	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
+-	Perception	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
 
 ## Research on mindfulness
 (TBD)
