@@ -19,10 +19,7 @@ https://github.com/mattisern/team-awareness-training
 This workshop is published under the Creative Commons license. It's free to use both in personal and commercial projects, as long as you publish your work under the same license :) Sharing is caring.
 
 ## Contributing
-Yes, please! Fork, clone, pull request.
-
-## Todo
-* Fill research.md with relevant research on meditation, stress, flow, etc.
+Yes, please! Fork, clone, pull request. If you see anything missing, or something you don't agree with, please open a ticket/issue.
 
 ## Contact
 Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and LinkedIn (Mattis Erngren).
