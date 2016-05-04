@@ -8,7 +8,7 @@
 - [F*ck that - a guided meditation](http://www.funnyordie.com/videos/c6d6848516/f-ck-that-a-guided-meditation?_cc=__d___&_ccid=b04c755435eebf23)
 
 ## Books
-I've put a star (*) next to the books I think you'll find most rewarding.
+I've put a star (*) next to the books I think you'll find most rewarding. You can also follow me on [Goodreads](https://www.goodreads.com/user/show/5510398-mattis-erngren) if you want to know what I'm reading right now.
 
 ####	Neuroscience
 -	Norman Doidge – The Brain That Changes Itself *
@@ -108,3 +108,8 @@ I recommend looking at Amazon reviews for all of these products before ordering 
 - Sam Harris
 - Buddhist Geeks
 - Zencast (#455 with Alan Watts is great!)
+
+## Talks
+Google Talk: Chade-Meng Tan, Search Inside Yourself. https://www.youtube.com/watch?v=r8fcqrNO7so
+Google Talk: Daniel Goleman, Focus. https://www.youtube.com/watch?v=b9yRmpcXKjY
+Sam Harris: Waking Up https://vimeo.com/ondemand/wakingup/115712819 (it's $5 but totally worth it)
