@@ -11,7 +11,7 @@ https://github.com/mattisern/team-awareness-training
 * [books_apps_tools.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/books_apps_tools.md) is, as the name suggest, a list of books, apps and tools for meditation.
 * [cheat_sheet.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/cheat_sheet.md) is the notes I use during the talk. (This might not make sense to you, since they're my personal notes.)
 * [meditation-instruction.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/meditation_instruction.md) is a basic meditation instruction, based on Culadasas mindfulness-concentration practice.
-* [research.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/research.md) is a list of research on meditation, stress, focus, etc. **TBD**
+* [research.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/research.md) is a list of research on meditation, stress, focus, etc.
 * [slides.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/slides.pdf) the slides I use for the workshop.
 * [mindmap.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/mindmap.pdf) the mindmap I use for the workshop. (This might not make sense to you, since they're my personal notes.)
 
