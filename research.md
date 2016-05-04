@@ -42,17 +42,3 @@ Here's a list of studies on meditation, and what they say they've proven that it
 -	Awareness	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
 -	Perception	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
 
-## Research on mindfulness
-(TBD)
-
-## Research on focus
-(TBD)
-
-## Research on flow
-(TBD)
-
-## Research on stress
-(TBD)
-
-## Research on leadership
-(TBD)
