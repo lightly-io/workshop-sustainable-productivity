@@ -3,9 +3,10 @@
 ## Free guided meditations
 - [Tara Brach](https://www.tarabrach.com/guided-meditations/)
 - [UCLA Mindfulness Research Centre](http://marc.ucla.edu/body.cfm?id=22)
-- [Lightly.io/Meditation](http://lightly.io/meditation)
 - [Spotify playlist](https://open.spotify.com/user/spotify/playlist/7BI8kVITNyvDtW4x7lf3qq)
 - [F*ck that - a guided meditation](http://www.funnyordie.com/videos/c6d6848516/f-ck-that-a-guided-meditation?_cc=__d___&_ccid=b04c755435eebf23)
+- Meditations in Swedish: [5 min](http://www.lightly.io/files/guided-5min-swedish.m4a), [10 min](http://www.lightly.io/files/guided-10min-swedish.m4a), [15 min](http://www.lightly.io/files/guided-15min-swedish.m4a), [20 min](http://www.lightly.io/files/guided-20min-swedish.m4a)
+- 
 
 ## Books
 I've put a star (*) next to the books I think you'll find most rewarding. You can also follow me on [Goodreads](https://www.goodreads.com/user/show/5510398-mattis-erngren) if you want to know what I'm reading right now.
@@ -110,6 +111,6 @@ I recommend looking at Amazon reviews for all of these products before ordering 
 - Zencast (#455 with Alan Watts is great!)
 
 ## Talks
-Google Talk: Chade-Meng Tan, Search Inside Yourself. https://www.youtube.com/watch?v=r8fcqrNO7so
-Google Talk: Daniel Goleman, Focus. https://www.youtube.com/watch?v=b9yRmpcXKjY
-Sam Harris: Waking Up https://vimeo.com/ondemand/wakingup/115712819 (it's $5 but totally worth it)
+- Google Talk: Chade-Meng Tan, Search Inside Yourself. https://www.youtube.com/watch?v=r8fcqrNO7so
+- Google Talk: Daniel Goleman, Focus. https://www.youtube.com/watch?v=b9yRmpcXKjY
+- Sam Harris: Waking Up https://vimeo.com/ondemand/wakingup/115712819 (it's $5 but totally worth it)
