@@ -6,7 +6,6 @@
 - [Spotify playlist](https://open.spotify.com/user/spotify/playlist/7BI8kVITNyvDtW4x7lf3qq)
 - [F*ck that - a guided meditation](http://www.funnyordie.com/videos/c6d6848516/f-ck-that-a-guided-meditation?_cc=__d___&_ccid=b04c755435eebf23)
 - Meditations in Swedish: [5 min](http://www.lightly.io/files/guided-5min-swedish.m4a), [10 min](http://www.lightly.io/files/guided-10min-swedish.m4a), [15 min](http://www.lightly.io/files/guided-15min-swedish.m4a), [20 min](http://www.lightly.io/files/guided-20min-swedish.m4a)
-- 
 
 ## Books
 I've put a star (*) next to the books I think you'll find most rewarding. You can also follow me on [Goodreads](https://www.goodreads.com/user/show/5510398-mattis-erngren) if you want to know what I'm reading right now.
