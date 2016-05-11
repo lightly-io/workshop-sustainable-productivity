@@ -20,12 +20,14 @@ This workshop is published under the Creative Commons license. It's free to use 
 For a couple of reasons.
 
 1. There is **so much bullshit** going on in the mindfulness/coaching space. Open source forces me to be transparent about what I do, which I hope inspire more people to do the same. That way we can (hopefully) weed out some of the scam.
-2. By open sourcing, the material is more open to feedback and comments.
-3. To show that you don't need a certification to start teaching these methods. A lot of people want your money, but these methods are thousands of years old and are free and available to anyone. Like jogging.
-4. More teachers = more competition = higher quality = better for everyone. 
+2. By open sourcing, the material is more open to feedback and comments. That will increase the quality of the workshop faster.
+3. To show that you don't need a certification to start teaching these methods. A lot of people want your money, but these methods are thousands of years old and are free and available to anyone. Like jogging. Just fork and get going.
+4. By helping to create more teachers, I increase the competition which should lead to higher quality which is better for everyone. 
 
 ## Contributing
-Yes, please! Fork, clone, pull request. If you see anything missing, or something you don't agree with, please open a ticket/issue.
+If you see anything missing, or something you don't agree with, please open a ticket/issue. If we can't agree on the specifics, just fork this repo and create your own version of the workshop.
+
+Pull requests are more than welcome. :D
 
 ## Contact
 Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and LinkedIn (Mattis Erngren).
