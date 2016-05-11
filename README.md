@@ -58,7 +58,7 @@ Key takeaway: optimize your team's mental state for flow:
 - Use meditation in your team to lower stress and increase focus
 - The method is simple: sit down, focus on your breath. Once distracted, bring focus back.
 - Simple method you can use almost anywhere by anyone.
-- Free of charge. No mantras/cushions/bears needed.
+- Free of charge. No mantras/cushions/beards needed.
 
 ### Flow
 
