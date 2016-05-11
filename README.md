@@ -1,8 +1,6 @@
 # Workshop: Focused & Fearless
 This workshop introduces mindfulness meditation as a practice to increase focus and decrease stress in a tech company.
 
-The point of open sourcing it is simple. I want more people to learn these methods. Fork this repo, update the script for your own teaching style, and get going. You needn't ask for anyones permission to start teaching. 
-
 After you've completed the workshop, I recommend moving on to the 8-week course. You can find it here on GitHub:
 https://github.com/mattisern/team-awareness-training
 
@@ -17,6 +15,14 @@ https://github.com/mattisern/team-awareness-training
 
 ## License
 This workshop is published under the Creative Commons license. It's free to use both in personal and commercial projects, as long as you publish your work under the same license :) Sharing is caring.
+
+### Why open source
+For a couple of reasons.
+
+1. There is *so much bullshit* going on in the mindfulness/coaching space. Open source forces me to be transparent about what I do, which I hope inspire more people to do the same. That way we can (hopefully) weed out some of the scam.
+2. By open sourcing, the material is more open to feedback and comments.
+3. To show that you don't need a certification to start teaching these methods. A lot of people want your money, but these methods are thousands of years old and are free and available to anyone. Like jogging.
+4. More teachers = more competition = higher quality = better for everyone. 
 
 ## Contributing
 Yes, please! Fork, clone, pull request. If you see anything missing, or something you don't agree with, please open a ticket/issue.
