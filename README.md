@@ -30,7 +30,7 @@ If you see anything missing, or something you don't agree with, please open a ti
 Pull requests are more than welcome. :D
 
 ## Contact
-Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and LinkedIn (Mattis Erngren).
+Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and [LinkedIn](https://se.linkedin.com/in/mattiserngren). My company is called [Lightly](http://www.lightly.io).
 
 ## Workshop summary
 Key takeaway: optimize your team's mental state for flow:
