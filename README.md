@@ -29,9 +29,6 @@ If you see anything missing, or something you don't agree with, please open a ti
 
 Pull requests are more than welcome. :D
 
-## Contact
-Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and [LinkedIn](https://se.linkedin.com/in/mattiserngren). I work at [Lightly](http://www.lightly.io) and [Thriver](http://www.thriver.io).
-
 ## Workshop summary
 Key takeaway: optimize your team's mental state for flow:
 
@@ -84,11 +81,7 @@ Key takeaway: optimize your team's mental state for flow:
 - Don't mistake motion for progress. Genuis inventions look simple from the outside. Lots of noise != productivity.
 - Jack Dorsey, CEO of Twitter & Square, wakes up 30mins early every morning to meditate. Why? Investment of time: rest of day more productive = valuable investment.
 - No need to use the word mindfulness. Just remove distractions and do things that are meaningful and challening. The rest will take care of itself.
-- To prioritze optimal mental states could mean to tell the people to care less about project. Decreased stress → increased productivity → better end result. Counter-intuitive for managers.
+- To prioritze optimal mental states could mean to tell the people to *care less* about project. Decreased stress → increased productivity → better end result. Counter-intuitive for managers.
 
-### Contact / more information
-
-- Add me on Twitter (@mattisern) or LinkedIn to keep in touch. Feel free to email me as well: mattis@lightly.io
-- Book recommendations: Search Inside Yourself by Chade-Meng Tan if you're curious how Google use these methods, The Mind Illuminated by John Yates (Culadasa) if you're serious about starting a meditation practice, and Flow by Mihaly Czikszentmihaly if that's what you want to know more about.
-- Free guided meditations available if you download Thriver from AppStore / Google Play.
-- My 8-week meditation course is available as open source on GitHub. @mattisern
+## Contact
+Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and [LinkedIn](https://se.linkedin.com/in/mattiserngren). I work at [Lightly](http://www.lightly.io) and [Thriver](http://www.thriver.io).
