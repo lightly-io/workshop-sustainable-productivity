@@ -47,3 +47,4 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - "Health care expenditures at high-pressure companies are [nearly 50% greater](http://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-11-642) than at other organizations."
 - "In a [large-scale study](http://ki.se/en/news/poor-leadership-poses-a-health-risk-at-work) of over 3,000 employees conducted by Anna Nyberg at the Karolinska Institute, results showed a strong link between leadership behavior and heart disease in employees. Stress-producing bosses are literally bad for the heart."
 - "[Sixty percent of lost workdays each year can be attributed to stress.](http://www.fdu.edu/newspubs/magazine/99su/stress.html)"
+- "[When work begins to overlap with workers' personal life this implies a negative effect on productivity.](http://www.emeraldinsight.com/doi/abs/10.1108/17410401011052869)"
