@@ -38,7 +38,7 @@ Key takeaway: optimize your team's mental state for flow:
 - meaningful, challenging tasks
 - create a distraction-free environment (digital, physical and mental)
 - it’s worth spending time to increase ability to stay calm and focus.
-- … mindfulness meditation is the best method for this that I'm aware of.
+- … present-state awareness training (i.e. meditation) is the best method for this that I'm aware of.
 
 ### Stress
 
