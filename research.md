@@ -52,7 +52,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - “[Stress can be something that makes you better, but it is a question of how much, how long and how you interpret or perceive it.](http://news.berkeley.edu/2013/04/16/researchers-find-out-why-some-stress-is-good-for-you/)” 
 
 ## Stress and health
-There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even cause depressions.
+There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even [cause depressions](http://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037).
 
 - "Chronic stress may also cause disease, either because of changes in your body or the overeating, smoking and other bad habits people use to cope with stress. Job strain — high demands coupled with low decision-making latitude — is associated with increased risk of coronary disease, for example." [American Psychological Association] (http://www.apa.org/helpcenter/stress.aspx)
 
