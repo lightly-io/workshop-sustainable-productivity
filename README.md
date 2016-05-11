@@ -14,9 +14,9 @@ https://github.com/mattisern/team-awareness-training
 * [mindmap.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/mindmap.pdf) is the mindmap I use for the workshop. (These, too, might not make sense to you.)
 
 ## License
-This workshop is published under the Creative Commons license. It's free to use both in personal and commercial projects, as long as you publish your work under the same license :) Sharing is caring.
+This workshop is published under the [Creative Commons license](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/LICENSE). It's free to use both in personal and commercial projects, as long as you publish your work under the same license :) Sharing is caring.
 
-### Why open source
+### Why open source?
 For a couple of reasons.
 
 1. There is **so much bullshit** going on in the mindfulness/coaching space. Open source forces me to be transparent about what I do, which I hope inspire more people to do the same. That way we can (hopefully) weed out some of the scam.
