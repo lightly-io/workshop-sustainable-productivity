@@ -113,13 +113,13 @@ I recommend looking at Amazon reviews for all of these products before ordering 
 - [Google Talk: Chade-Meng Tan, Search Inside Yourself.] (https://www.youtube.com/watch?v=r8fcqrNO7so)
 - [Google Talk: Daniel Goleman, Focus.] (https://www.youtube.com/watch?v=b9yRmpcXKjY)
 - [Sam Harris: Waking Up] (https://vimeo.com/ondemand/wakingup/115712819) (it's $5 but totally worth it)
-- [Can Stress Kill You?] (https://www.youtube.com/watch?v=vzrjEP5MOT4)
+- [Can Stress Kill You?] (https://www.youtube.com/watch?v=vzrjEP5MOT4)
 - [The science of meditation] (https://www.youtube.com/watch?v=Aw71zanwMnY)
-- [How chronic stress affects your brain] (https://www.facebook.com/TEDEducation/videos/1127655593914312/)
+- [How chronic stress affects your brain] (https://www.facebook.com/TEDEducation/videos/1127655593914312/)
 
 ## Helpful articles
 - [Just breathe - the body hos a build in stress-reliever (NPR)](http://www.npr.org/2010/12/06/131734718/just-breathe-body-has-a-built-in-stress-reliever)
 - [7 ways meditation can actually change the brain (Forbes)] (http://www.forbes.com/sites/alicegwalton/2015/02/09/7-ways-meditation-can-actually-change-the-brain/)
-- [Evidence based research on mindfulness (Harvard)] (http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness)
+- [Evidence based research on mindfulness (Harvard)] (http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness)
 
 Also, I think this is the best descrption of the relationship between presence and happiness: [Life is a picture but you live in a pixel (Wait But Why)](http://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html)
