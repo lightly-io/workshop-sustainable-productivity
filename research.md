@@ -57,6 +57,8 @@ There is a bunch of research that shows the negative effects of stress on the bo
 
 However, a Stanford researcher claims that stress only causes health to deteriorate when we view stress as something negative. As long as we look at our stress in a positive way, it's not harmful.
 
-"[Viewing stress as a helpful part of life, rather than as harmful, is associated with better health, emotional well-being and productivity at work – even during periods of high stress.](https://news.stanford.edu/2015/05/07/stress-embrace-mcgonigal-050715/)"
+- "[Viewing stress as a helpful part of life, rather than as harmful, is associated with better health, emotional well-being and productivity at work – even during periods of high stress.](https://news.stanford.edu/2015/05/07/stress-embrace-mcgonigal-050715/)"
 
-I think it's safe to say that we need more research on this before we can say for sure. 
+I think it's safe to say that we need more research on this before we can say for sure. Perhaps a balanced way comes out of this article at Berkeley:
+
+- “[Stress can be something that makes you better, but it is a question of how much, how long and how you interpret or perceive it.](http://news.berkeley.edu/2013/04/16/researchers-find-out-why-some-stress-is-good-for-you/)” 
