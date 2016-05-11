@@ -30,7 +30,7 @@ If you see anything missing, or something you don't agree with, please open a ti
 Pull requests are more than welcome. :D
 
 ## Contact
-Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and [LinkedIn](https://se.linkedin.com/in/mattiserngren). My company is called [Lightly](http://www.lightly.io).
+Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and [LinkedIn](https://se.linkedin.com/in/mattiserngren). I work at [Lightly](http://www.lightly.io) and [Thriver](http://www.thriver.io).
 
 ## Workshop summary
 Key takeaway: optimize your team's mental state for flow:
@@ -74,7 +74,7 @@ Key takeaway: optimize your team's mental state for flow:
 - measure teams stress levels to know if where in the right place
 - without data, stress is usually binary: ”are you stressed or not?”
 - binary stress levels not very helpful since everyone in tech is kind of stressed
-- We've built Thriver to do this: www.thriver.io
+- We've built **Thriver** to do this: [www.thriver.io](http://www.thriver.io)
 - Now you're able to make decision based on data to optimize for flow. Increase or decrease depending on team's state of mind.
 
 ### Other
