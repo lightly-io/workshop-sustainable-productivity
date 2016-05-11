@@ -48,5 +48,15 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - "In a [large-scale study](http://ki.se/en/news/poor-leadership-poses-a-health-risk-at-work) of over 3,000 employees conducted by Anna Nyberg at the Karolinska Institute, results showed a strong link between leadership behavior and heart disease in employees. Stress-producing bosses are literally bad for the heart."
 - "[Sixty percent of lost workdays each year can be attributed to stress.](http://www.fdu.edu/newspubs/magazine/99su/stress.html)"
 - "[When work begins to overlap with workers' personal life this implies a negative effect on productivity.](http://www.emeraldinsight.com/doi/abs/10.1108/17410401011052869)"
-- "[Viewing stress as a helpful part of life, rather than as harmful, is associated with better health, emotional well-being and productivity at work – even during periods of high stress.](https://news.stanford.edu/2015/05/07/stress-embrace-mcgonigal-050715/)"
 - "Research has found that different tasks require different levels of arousal for optimal performance. For example, difficult or intellectually demanding tasks may require a lower level of arousal (to facilitate concentration), whereas tasks demanding stamina or persistence may be performed better with higher levels of arousal (to increase motivation). [The downward part is caused by negative effects of arousal (or stress) on cognitive processes like attention (e.g., "tunnel vision"), memory, and problem-solving.](http://www.sciencedirect.com/science/article/pii/S0278262607000322)"
+
+## Stress and health
+There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even cause depressions.
+
+- "Chronic stress may also cause disease, either because of changes in your body or the overeating, smoking and other bad habits people use to cope with stress. Job strain — high demands coupled with low decision-making latitude — is associated with increased risk of coronary disease, for example." [American Psychological Association] (http://www.apa.org/helpcenter/stress.aspx)
+
+However, a Stanford researcher claims that stress only causes health to deteriorate when we view stress as something negative. As long as we look at our stress in a positive way, it's not harmful.
+
+"[Viewing stress as a helpful part of life, rather than as harmful, is associated with better health, emotional well-being and productivity at work – even during periods of high stress.](https://news.stanford.edu/2015/05/07/stress-embrace-mcgonigal-050715/)"
+
+I think it's safe to say that we need more research on this before we can say for sure. 
