@@ -19,7 +19,7 @@ This workshop is published under the Creative Commons license. It's free to use 
 ### Why open source
 For a couple of reasons.
 
-1. There is *so much bullshit* going on in the mindfulness/coaching space. Open source forces me to be transparent about what I do, which I hope inspire more people to do the same. That way we can (hopefully) weed out some of the scam.
+1. There is **so much bullshit** going on in the mindfulness/coaching space. Open source forces me to be transparent about what I do, which I hope inspire more people to do the same. That way we can (hopefully) weed out some of the scam.
 2. By open sourcing, the material is more open to feedback and comments.
 3. To show that you don't need a certification to start teaching these methods. A lot of people want your money, but these methods are thousands of years old and are free and available to anyone. Like jogging.
 4. More teachers = more competition = higher quality = better for everyone. 
