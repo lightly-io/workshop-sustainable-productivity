@@ -42,6 +42,6 @@ Here's a list of studies on meditation, and what they say they've proven that it
 -	Awareness	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
 -	Perception	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
 
-## Research on stress
-"[The Global Benefits Attitudes survey](https://www.towerswatson.com/DownloadMedia.aspx?media=%7B581A704A-0635-43CA-8073-CB79D6FBCF52%7D) found that levels of workplace disengagement significantly increase when employees experience high levels of stress.  The study of 22,347 employees across 12 countries including the UK and US, revealed that over half of those employees claiming to be experiencing high stress levels reported they were disengaged.  By contrast, only one in ten employees claiming low stress levels reported they were disengaged and half of this group claimed to be highly engaged." 
-"Health care expenditures at high-pressure companies are [nearly 50% greater](http://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-11-642) than at other organizations."
+## Research on stress and productivity
+- "[The Global Benefits Attitudes survey](https://www.towerswatson.com/DownloadMedia.aspx?media=%7B581A704A-0635-43CA-8073-CB79D6FBCF52%7D) found that levels of workplace disengagement significantly increase when employees experience high levels of stress.  The study of 22,347 employees across 12 countries including the UK and US, revealed that over half of those employees claiming to be experiencing high stress levels reported they were disengaged.  By contrast, only one in ten employees claiming low stress levels reported they were disengaged and half of this group claimed to be highly engaged." 
+- "Health care expenditures at high-pressure companies are [nearly 50% greater](http://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-11-642) than at other organizations."
