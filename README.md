@@ -7,11 +7,11 @@ https://github.com/mattisern/team-awareness-training
 ## Files
 * [script.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/script.md) is the script for the workshop. Since I never read from a script, this is supposed to be just inspiration to create your own version of the workshop.
 * [books_apps_tools.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/books_apps_tools.md) is, as the name suggest, a list of books, apps and tools that help you stay calm and focused.
-* [cheat_sheet.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/cheat_sheet.md) are the notes I use during the talk. (These might not make sense to you, since they're my personal notes.)
+* [cheat_sheet.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/cheat_sheet.md) are the notes I use during the talk. (These might not make sense to you, since they're my personal notes.) *Note: nowadays, I use the mindmap more than this cheat sheet, so it's not up to date.*
 * [meditation-instruction.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/meditation_instruction.md) is a basic meditation instruction, based on Culadasas mindfulness-concentration practice.
 * [research.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/research.md) is a list of research on meditation, stress, focus, etc.
 * [slides.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/slides.pdf) are the slides I use for the workshop.
-* [mindmap.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/mindmap.pdf) is the mindmap I use for the workshop. (These, too, might not make sense to you.)
+* [mindmap.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/mindmap.pdf) is the mindmap I use for the workshop. (This, too, might not make sense to you.)
 
 ## License
 This workshop is published under the [Creative Commons license](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/LICENSE). It's free to use both in personal and commercial projects, as long as you publish your work under the same license :) Sharing is caring.
