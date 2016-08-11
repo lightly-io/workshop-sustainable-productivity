@@ -1,5 +1,7 @@
 # Books, apps & tools
 
+A note before we start: some of these books, podcast etc. have buddhist or hindu themes. I am not a buddhist, nor a hindu, so keep in mind that you might have to just skim through the stuff that's too religiously tinted. Keep your scepticism high and look for reasoning and techniques that can be validated either in a lab or your own experience.
+
 ## Books
 I've put a star (*) next to the books I think you'll find most rewarding. You can also follow me on [Goodreads](https://www.goodreads.com/user/show/5510398-mattis-erngren) if you want to know what I'm reading right now.
 
