@@ -22,20 +22,15 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 
 ####	Philosophy
 -	Jeff Bridges & Bernie Glassman – The Dude & The Zen Master
--	Bhagavadgita
 -	Tara Brach – Radical Acceptance
 -	Alan de Botton – Religion for Atheists *
--	Dhammapadda
 -	Aldous Huxley – The Perennial Philosophy *
 -	Sam Harris – Waking Up
--	Walpota Rahula – What the Buddha Taught
 -	Seneca – Letters From A Stoic
 -	Max Tegmark – Our Mathematical Universe
 -	David Henry Thoreau – Walden  
 -	Thich Nhat Hanh – Fear  
--	Alan Watts – Become What You Are
 -	Alan Watts – The Way of Zen *
--	Alan Watts – The Wisdom of Insecurity
 
 ####	Meditation
 -	Shaila Catherine – Focused & Fearless
@@ -60,16 +55,12 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Viktor Frankl – Man's Search For Meaning *
 - The Mayo Clinic Guide To Stress Free Living (don't judge it by it's cover!) *
 - Kelly McGonigal - The Upside of Stress
+-	Marcus Aurelius – Meditations
 
 #### Poetry & prose
--	Marcus Aurelius – Meditations
--	Seneca – Letters From A Stoic
--	Jack Kerouac – Dharma Bums *
--	Jack Kerouac – Some of the Dharma
--	Selected Poems of Rumi
--	Lao Tzu – Tao Te Ching *
+-	Jack Kerouac – Dharma Bums
+-	Lao Tzu – Tao Te Ching
 -	Walt Whitman – Leaves of Grass
-- Herman Hesse - Siddharta
 
 ## Free guided meditations
 - [Tara Brach](https://www.tarabrach.com/guided-meditations/)
