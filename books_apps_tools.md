@@ -59,6 +59,7 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Daniel Goleman – Focus *
 -	Viktor Frankl – Man's Search For Meaning *
 - The Mayo Clinic Guide To Stress Free Living (don't judge it by it's cover!) *
+- Kelly McGonigal - The Upside of Stress
 
 #### Poetry & prose
 -	Marcus Aurelius – Meditations
