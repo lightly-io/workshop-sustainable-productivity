@@ -18,7 +18,7 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 ####	Organization
 -	Salim Ismail - Exponential Organizations*
 -	Frederic Laloux - Reinventing Organizations*
--	Fred Kofman - Conscious Business  
+-	Jason Fried - Rework
 
 ####	Philosophy
 -	Jeff Bridges & Bernie Glassman – The Dude & The Zen Master
