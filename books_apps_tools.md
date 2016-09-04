@@ -29,8 +29,8 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Seneca – Letters From A Stoic
 -	Max Tegmark – Our Mathematical Universe
 -	David Henry Thoreau – Walden  
--	Thich Nhat Hanh – Fear  
 -	Alan Watts – The Way of Zen *
+-	Marcus Aurelius – Meditations
 
 ####	Meditation
 -	Shaila Catherine – Focused & Fearless
@@ -55,7 +55,7 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Viktor Frankl – Man's Search For Meaning *
 - The Mayo Clinic Guide To Stress Free Living (don't judge it by it's cover!) *
 - Kelly McGonigal - The Upside of Stress
--	Marcus Aurelius – Meditations
+-	Yuval Noah Harari - Sapiens
 
 #### Poetry & prose
 -	Jack Kerouac – Dharma Bums
