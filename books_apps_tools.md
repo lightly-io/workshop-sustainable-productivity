@@ -33,16 +33,13 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Marcus Aurelius – Meditations
 
 ####	Meditation
--	Shaila Catherine – Focused & Fearless
 -	Joseph Goldstein – Mindfulness
 -	Dan Harris – 10% Happier
 -	Jon Kabat–Zinn – Full Catastrophe Living
--	Jon Kabat–Zinn – Wherever You Go, There You Are
 -	Jack Kornfield – A Path With Heart
 -	David Lynch – Catching The Big Fish
 -	John Yates (Culadasa) – The Mind Illuminated *
--	Mingyur Yongyey Rinpoche – The Joy of Living
--	D.T. Suzuki – Zen Mind, Beginners Mind *
+-	D.T. Suzuki – Zen Mind, Beginners Mind
 -	Chade–Meng Tan – Search Inside Yourself *
 
 ####	Psychology
