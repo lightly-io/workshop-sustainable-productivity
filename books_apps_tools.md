@@ -13,6 +13,7 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Hana Ros & Matteo Farinella – Neurocomic  
 -	Steven Pinker – How The Mind Works
 - Brian Rock - Your Brain at Work
+- Stanislav Dehaene - Consciousness and the Brain
 -	... and anything by Oliver Sacks.  
 
 ####	Organization
