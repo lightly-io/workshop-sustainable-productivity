@@ -78,7 +78,7 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 
 [**Freedom**](https://freedom.to/) shuts down your internet connection. :) I enjoyed their previous version more. It had just a timer, and no options. 
 
-Other choices include Buddhify, The Mindfulness App and Stop Breathe & Think. I use an app called **Pranayama** to help with my deep breathing. It looks weird, but works like a charm. If you want to practice your breath at your laptop, use http://www.xhalr.com/.
+Other choices include Buddhify, Whi, and Insight Timer. I use an app called **Pranayama** to help with my deep breathing. It looks weird, but works like a charm. If you want to practice your breath at your laptop, use http://www.xhalr.com/.
 
 To improve my sleep I use [f.lux](https://justgetflux.com/).
 
