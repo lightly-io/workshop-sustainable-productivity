@@ -1,4 +1,4 @@
-# Workshop: Focused & Fearless
+# Workshop: Sustainable Productivity
 This workshop aims to increase focus and decrease stress in a tech company. We look closer at mindfulness and meditation as tools for reaching that goal, and also learn how stress affects the body and productivity.
 
 After you've completed the workshop, I recommend moving on to the 8-week course. You can find it here on GitHub:
