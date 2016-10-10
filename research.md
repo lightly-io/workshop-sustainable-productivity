@@ -61,3 +61,6 @@ However, a Stanford researcher claims that stress only causes health to deterior
 - "[Viewing stress as a helpful part of life, rather than as harmful, is associated with better health, emotional well-being and productivity at work – even during periods of high stress.](https://news.stanford.edu/2015/05/07/stress-embrace-mcgonigal-050715/)"
 
 There is another way to interpret this data. What is the respondents that report that they have a negative outlook on stress do that *because* they have experienced physical pain? Is this causation or correlation? We need further research to know for sure.
+
+## Research on gratitude
+Berkeley has put together an amazing site on the science and practice of gratitude. [Check it out.](http://greatergood.berkeley.edu/resources/studies#gratitude)
