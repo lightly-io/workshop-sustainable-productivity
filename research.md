@@ -49,7 +49,8 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - "[Sixty percent of lost workdays each year can be attributed to stress.](http://www.fdu.edu/newspubs/magazine/99su/stress.html)"
 - "[When work begins to overlap with workers' personal life this implies a negative effect on productivity.](http://www.emeraldinsight.com/doi/abs/10.1108/17410401011052869)"
 - "Research has found that different tasks require different levels of arousal for optimal performance. For example, difficult or intellectually demanding tasks may require a lower level of arousal (to facilitate concentration), whereas tasks demanding stamina or persistence may be performed better with higher levels of arousal (to increase motivation). [The downward part is caused by negative effects of arousal (or stress) on cognitive processes like attention (e.g., "tunnel vision"), memory, and problem-solving.](http://www.sciencedirect.com/science/article/pii/S0278262607000322)"
-- “[Stress can be something that makes you better, but it is a question of how much, how long and how you interpret or perceive it.](http://news.berkeley.edu/2013/04/16/researchers-find-out-why-some-stress-is-good-for-you/)” 
+- “[Stress can be something that makes you better, but it is a question of how much, how long and how you interpret or perceive it.](http://news.berkeley.edu/2013/04/16/researchers-find-out-why-some-stress-is-good-for-you/)”
+- "[Programmer, interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/)"
 
 ## Stress and health
 There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even [cause depressions](http://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037).
