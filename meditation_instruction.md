@@ -1,5 +1,10 @@
 # Meditation instruction
-These instructions are based on those found in Culadasas *The Mind Illuminated*.
+Below are a couple of "levels" that you can base your practice on. I've stolen them from Culadasas *The Mind Illuminated*. 
+
+You can find more tips & tricks related to your meditation practice at these sites:
+- https://www.coach.me/meditation 
+- http://www.nytimes.com/well/guides/how-to-meditate
+- http://www.starting-meditation.com (I made this! It's open sourced, too.)
 
 ## Level 1
 Level 1 is all about introducing meditation to our lives and creating the habit. You don't have to be "good" at meditation or achieve anything. Just sit and breathe.
