@@ -1,20 +1,20 @@
 # Workshop: Sustainable Productivity
-This workshop aims to increase focus and decrease stress in a tech company. We look closer at mindfulness and meditation as tools for reaching that goal, and also learn how stress affects the body and productivity.
+This workshop aims to increase focus and decrease stress in a tech company. We look closer at mindfulness and meditation as tools for reaching that goal, and also learn how stress affects the body and your working capacity.
 
 After you've completed the workshop, I recommend moving on to the 8-week course. You can find it here on GitHub:
-https://github.com/mattisern/team-awareness-training
+https://github.com/lightly-io/team-awareness-training
 
 ## Files
-* [script.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/script.md) is the script for the workshop. Since I never read from a script, this is supposed to be just inspiration to create your own version of the workshop.
-* [books_apps_tools.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/books_apps_tools.md) is, as the name suggest, a list of books, apps and tools that help you stay calm and focused.
-* [cheat_sheet.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/cheat_sheet.md) are the notes I use during the talk. (These might not make sense to you, since they're my personal notes.) *Note: nowadays, I use the mindmap more than this cheat sheet, so it's not up to date.*
-* [meditation-instruction.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/meditation_instruction.md) is a basic meditation instruction, based on Culadasas mindfulness-concentration practice.
-* [research.md](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/research.md) is a list of research on meditation, stress, focus, etc.
-* [slides.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/slides.pdf) are the slides I use for the workshop.
-* [mindmap.pdf](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/mindmap.pdf) is the mindmap I use for the workshop. (This, too, might not make sense to you.)
+* [script.md](https://github.com/lightly-io/workshop-focused-and-fearless/blob/master/script.md) is the script for the workshop. Since I never read from a script, this is supposed to be just inspiration to create your own version of the workshop.
+* [books_apps_tools.md](https://github.com/lightly-io/workshop-focused-and-fearless/blob/master/books_apps_tools.md) is, as the name suggest, a list of books, apps and tools that help you stay calm and focused.
+* [cheat_sheet.md](https://github.com/lightly-io/workshop-focused-and-fearless/blob/master/cheat_sheet.md) are the notes I use during the talk. (These might not make sense to you, since they're my personal notes.) *Note: nowadays, I use the mindmap more than this cheat sheet, so it's not up to date.*
+* [meditation-instruction.md](https://github.com/lightly-io/workshop-focused-and-fearless/blob/master/meditation_instruction.md) is a basic meditation instruction, based on Culadasas mindfulness-concentration practice.
+* [research.md](https://github.com/lightly-io/workshop-focused-and-fearless/blob/master/research.md) is a list of research on meditation, stress, focus, etc.
+* [slides.pdf](https://github.com/lightly-io/workshop-focused-and-fearless/blob/master/slides.pdf) are the slides I use for the workshop.
+* [mindmap.pdf](https://github.com/lightly-io/workshop-focused-and-fearless/blob/master/mindmap.pdf) is the mindmap I use for the workshop. 
 
 ## License
-This workshop is published under the [Creative Commons license](https://github.com/mattisern/workshop-focused-and-fearless/blob/master/LICENSE). It's free to use both in personal and commercial projects, as long as you publish your work under the same license :) Sharing is caring.
+This workshop is published under the [Creative Commons license](https://github.com/lightly-io/workshop-focused-and-fearless/blob/master/LICENSE). It's free to use both in personal and commercial projects, as long as you publish your work under the same license :) Sharing is caring.
 
 ### Why open source?
 For a couple of reasons.
@@ -35,17 +35,25 @@ Key takeaway: optimize your team's mental state for flow:
 - meaningful, challenging tasks
 - create a distraction-free environment (digital, physical and mental)
 - it’s worth spending time to increase ability to stay calm and focus.
-- … present-state awareness training (i.e. meditation) is the best method for this that I'm aware of.
+- … present-state awareness training (i.e. meditation) is the best method for this ... that I'm aware of.
 
 ### Stress
 
 - Stress is good – up until a point. See the Yerkes-Dodson law: ∩
 - Many of us spend work hours being more stressed than we should be. Too stressed → low focus, low creativity, low concentration and physical health
-- Stress is caused by workloads, lack of feedback loops, troublesome relationships, and no balance between responsibility and authority, not knowing priorities.
-- Our reactions to stress is result of evolution. Was super good in stoneage for physical threats. Distractions might be life-threatening. ”Threats” / ”danger” is intellectual now. We don't need faster heart beats.
+- Stress is not necessarily caused by high workloads, but rather by lack of feedback loops, complicated relationships, no balance between responsibility and authority, and lack of recovery time.
+- Our reactions to stress is result of evolution. It was super good in stoneage for physical threats. Distractions might be life-threatening. ”Threats” / ”danger” is intellectual now. We don't need faster heart beats.
 - We have lots of methods to increase stress: caffeine, notifications, angry customers, mission statements, etc.
-- … but we need more methods to lower stress.
-- … or, just spend more time on the ones we already know.
+- We also have a lot of methods for decreasing stress: workouts, taking walks, meditation, talking to friends.
+- So why do we still have the problem with burnouts?
+
+### Issues of mental health
+- We still see mental illness as something that the individual causes.
+- And thus should be able to fix themselves.
+- Therefore, A: they fail to fix it.
+- Therefore, B: they don't want to talk about it.
+- Ergo, they don't get well and we have burnouts.
+- (this is a super simplistic explanation, but I think these are the key things we need to fix in order to get to the root of burnouts.)
 
 ### Meditation
 
@@ -55,7 +63,7 @@ Key takeaway: optimize your team's mental state for flow:
 - Use meditation in your team to lower stress and increase focus
 - The method is simple: sit down, focus on your breath. Once distracted, bring focus back.
 - Simple method you can use almost anywhere by anyone.
-- Free of charge. No mantras/cushions/beards needed.
+- Free of charge. No mantras/cushions/beards/apps needed.
 
 ### Flow
 
@@ -64,24 +72,22 @@ Key takeaway: optimize your team's mental state for flow:
 - different stress levels needed depending on tasks. Mountain bike not same as brain surgery.
 - Need challenging, meaningful tasks and no distractions to get into a state of flow.
 - Feeling of ”f- yeah, I'm good at this” + time disappears → signs of flow
-- Computer games usually easiest way to experience flow.
+- Create 1-4 hours every day where you and your team have the ability to experience flow. XP? Limiting distractions? Separate rooms? 
+- Collaboration is hindering flow. Maybe we are collaborating too much? :O
 
 ### Data
 
 - measure teams stress levels to know if where in the right place
 - without data, stress is usually binary: ”are you stressed or not?”
 - binary stress levels not very helpful since everyone in tech is kind of stressed
-- We've built **Thriver** to do this: [www.thriver.io](http://www.thriver.io)
 - Now you're able to make decision based on data to optimize for flow. Increase or decrease depending on team's state of mind.
+- Use a Google Form (free) or OfficeVibe (costs money).
 
 ### Other
 
 - apps such as Freedom (freedom.to) and Self-Control (selfcontrolapp.com) are helpful to create distraction-free environment. Silent focus rooms – and/or times of day – is usually needed as well.
-- No distractions will need to new levels of communication. Do I really need to send this email, or bother someone in person? Can I write a more thorough email?
 - Don't mistake motion for progress. Genuis inventions look simple from the outside. Lots of noise != productivity.
-- Jack Dorsey, CEO of Twitter & Square, wakes up 30mins early every morning to meditate. Why? Investment of time: rest of day more productive = valuable investment.
-- No need to use the word mindfulness. Just remove distractions and do things that are meaningful and challening. The rest will take care of itself.
 - To prioritze optimal mental states could mean to tell the people to *care less* about project. Decreased stress → increased productivity → better end result. Counter-intuitive for managers.
 
 ## Contact
-Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and [LinkedIn](https://se.linkedin.com/in/mattiserngren). I work at [Lightly](http://www.lightly.io) and [Thriver](http://www.thriver.io).
+Reach me on Twitter ([@mattisern](http://www.twitter.com/mattisern)) and email (mattis@lightly.io) and [LinkedIn](https://se.linkedin.com/in/mattiserngren). I work at [Lightly](http://www.lightly.io).
