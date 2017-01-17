@@ -67,8 +67,9 @@ There is another way to interpret this data. What is the respondents that report
 - [Stress correlated with, but not causing, cancer.] (https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
 - [Challenge vs threat response.] (http://www.sicotests.com/psyarticle.asp?id=281)
 
-## Research on gratitude
-Berkeley has put together an amazing site on the science and practice of gratitude. [Check it out.](http://greatergood.berkeley.edu/resources/studies#gratitude)
+## Other methods for reducing stress
+- Berkeley has put together an amazing site on the science and practice of gratitude. [Check it out.](http://greatergood.berkeley.edu/resources/studies#gratitude)
+- [The talking cure.] https://books.google.se/books?id=QFd02VbaJJMC&pg=PA227&lpg=PA227&dq=the+talking+cure+amygdala&source=bl&ots=bhJIwakquK&sig=cenfH1CHfaxGJDp4F8PXtYEkWaA&hl=sv&sa=X&ved=0ahUKEwiV573lgsnRAhXhDMAKHYCcDjAQ6AEIVDAH#v=onepage&q=the%20talking%20cure%20amygdala&f=false
 
 ## Research on mental illness
 - [Mental illness more common than physical illness.]( https://www.forsakringskassan.se/press/pressmeddelanden/!ut/p/z1/rZJNU4MwEIZ_iweOkOWzqTc4lNap1dGxLbkwKQRKgUBJCtZfb-h40VE7zphLJsnuu8--G0TQFhFO-yKnsmg4rdQ5Il6MLbgPAtOHB89xYDGdrcxgubRmcxOtEUEk4bKVexQlDZeMS8E0aDsmxMdWszRlFeUp4xoIOV7FPeWVKiMki5tO0JLxWBZVFYvDqRRlV_S84Pmo3SZFiiKPwTTDHugTj4Lu0J2lTzHGOnaYC4nrZrY7QZtrsEQ9ww_LB5VProVEqsQktk2A6VgixCHA4vHFDte-9bReKIa-YAN64U1XK_ue_9jBHNDdBeGXJtRIisPxSHzl--j3q0TbfzdeUWSlcRExvkqNBD7f2VjNp2MZ61hnnDr1V_ZStuJWAw2GYTDypskrZoxM32XsG6HAPwWitq6xfdb5W7DSw41Odufh5h0irUfq/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
@@ -78,9 +79,6 @@ Berkeley has put together an amazing site on the science and practice of gratitu
 - [Mental illness sick leave most common in ages 30-39.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
 - [Mental illness most common among teachers and health workers.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
 - [Lack of feedback as a reasons for burnout](https://hbr.org/2016/11/beating-burnout)
-
-## Research mentioned in workshop that lack links on this page:
-- The talking cure research, prefrontal cortex
 
 ## Topics to further research:
 - How is stress correlated with workload? (rather than control vs. responsibility)
