@@ -50,7 +50,8 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - "[When work begins to overlap with workers' personal life this implies a negative effect on productivity.](http://www.emeraldinsight.com/doi/abs/10.1108/17410401011052869)"
 - "Research has found that different tasks require different levels of arousal for optimal performance. For example, difficult or intellectually demanding tasks may require a lower level of arousal (to facilitate concentration), whereas tasks demanding stamina or persistence may be performed better with higher levels of arousal (to increase motivation). [The downward part is caused by negative effects of arousal (or stress) on cognitive processes like attention (e.g., "tunnel vision"), memory, and problem-solving.](http://www.sciencedirect.com/science/article/pii/S0278262607000322)"
 - “[Stress can be something that makes you better, but it is a question of how much, how long and how you interpret or perceive it.](http://news.berkeley.edu/2013/04/16/researchers-find-out-why-some-stress-is-good-for-you/)”
-- "[Programmer, interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/)"
+- "[Programmer, interrupted.](http://blog.ninlabs.com/2013/01/programmer-interrupted/)"
+- [Activate sympathetic nervous system by notification.](http://jass.neuro.wisc.edu/2015/01/Lab%20601%20Group%2012.pdf)
 
 ## Stress and health
 There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even [cause depressions](http://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037).
@@ -76,11 +77,10 @@ Berkeley has put together an amazing site on the science and practice of gratitu
 - When females and males have the same kind of jobs, females do not report higher stress levels: [Statens beredning för medicinsk och social utvärdering](http://www.sbu.se/)
 - [Mental illness sick leave most common in ages 30-39.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
 - [Mental illness most common among teachers and health workers.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
+- [Lack of feedback as a reasons for burnout](https://hbr.org/2016/11/beating-burnout)
 
 ## Research mentioned in workshop that lack links on this page:
 - The talking cure research, prefrontal cortex
-- Lack of feedback as one of the main reasons for burnout
-- Activate sympathetic nervous system by notification
 
 ## Topics to further research:
 - How is stress correlated with workload? (rather than control vs. responsibility)
