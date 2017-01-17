@@ -63,17 +63,21 @@ However, a Stanford researcher claims that stress only causes health to deterior
 
 There is another way to interpret this data. What is the respondents that report that they have a negative outlook on stress do that *because* they have experienced physical pain? Is this causation or correlation? We need further research to know for sure.
 
+- [Stress correlated with, but not causing, cancer.] (https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
+- [Challenge vs threat response.] (http://www.sicotests.com/psyarticle.asp?id=281)
+
 ## Research on gratitude
 Berkeley has put together an amazing site on the science and practice of gratitude. [Check it out.](http://greatergood.berkeley.edu/resources/studies#gratitude)
 
+## Research on mental illness
+- [Mental illness more common than physical illness.]( https://www.forsakringskassan.se/press/pressmeddelanden/!ut/p/z1/rZJNU4MwEIZ_iweOkOWzqTc4lNap1dGxLbkwKQRKgUBJCtZfb-h40VE7zphLJsnuu8--G0TQFhFO-yKnsmg4rdQ5Il6MLbgPAtOHB89xYDGdrcxgubRmcxOtEUEk4bKVexQlDZeMS8E0aDsmxMdWszRlFeUp4xoIOV7FPeWVKiMki5tO0JLxWBZVFYvDqRRlV_S84Pmo3SZFiiKPwTTDHugTj4Lu0J2lTzHGOnaYC4nrZrY7QZtrsEQ9ww_LB5VProVEqsQktk2A6VgixCHA4vHFDte-9bReKIa-YAN64U1XK_ue_9jBHNDdBeGXJtRIisPxSHzl--j3q0TbfzdeUWSlcRExvkqNBD7f2VjNp2MZ61hnnDr1V_ZStuJWAw2GYTDypskrZoxM32XsG6HAPwWitq6xfdb5W7DSw41Odufh5h0irUfq/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+- [Stress most common reason for sick leave in Sweden.]( https://www.forsakringskassan.se/press/pressmeddelanden/!ut/p/z1/rZJNU4MwEIZ_iweOkOWzqTc4lNap1dGxLbkwKQRKgUBJCtZfb-h40VE7zphLJsnuu8--G0TQFhFO-yKnsmg4rdQ5Il6MLbgPAtOHB89xYDGdrcxgubRmcxOtEUEk4bKVexQlDZeMS8E0aDsmxMdWszRlFeUp4xoIOV7FPeWVKiMki5tO0JLxWBZVFYvDqRRlV_S84Pmo3SZFiiKPwTTDHugTj4Lu0J2lTzHGOnaYC4nrZrY7QZtrsEQ9ww_LB5VProVEqsQktk2A6VgixCHA4vHFDte-9bReKIa-YAN64U1XK_ue_9jBHNDdBeGXJtRIisPxSHzl--j3q0TbfzdeUWSlcRExvkqNBD7f2VjNp2MZ61hnnDr1V_ZStuJWAw2GYTDypskrZoxM32XsG6HAPwWitq6xfdb5W7DSw41Odufh5h0irUfq/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+- [Mental illness more common among females. Note: this is only *reported mental illness* – it might be as common among men in reality.] (https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/folkhalsans-utveckling/sjalvrapporterad-psykisk-ohalsa-i-befolkningen/)
+- When females and males have the same kind of jobs, females do not report higher stress levels: [Statens beredning för medicinsk och social utvärdering](http://www.sbu.se/)
+- [Mental illness sick leave most common in ages 30-39.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
+- [Mental illness most common among teachers and health workers.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
+
 ## Research mentioned in workshop that lack links on this page:
-- Mental illness now number one reason for sick leave in Sweden.
-- Main cause of mental illness: acute stress reaction.
-- More common among females.
-- More common among teachers and nurses.
-- Most common at ages 30-40.
-- Stress correlation with cancer. (not causing!)
-- Challenge vs. threat response
 - The talking cure research, prefrontal cortex
 - Lower concentration as result of stress
 - Lack of feedback as one of the main reasons for burnout
