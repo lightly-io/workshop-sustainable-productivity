@@ -79,7 +79,6 @@ Berkeley has put together an amazing site on the science and practice of gratitu
 
 ## Research mentioned in workshop that lack links on this page:
 - The talking cure research, prefrontal cortex
-- Lower concentration as result of stress
 - Lack of feedback as one of the main reasons for burnout
 - Activate sympathetic nervous system by notification
 
