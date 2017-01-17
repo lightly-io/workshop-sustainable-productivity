@@ -65,3 +65,24 @@ There is another way to interpret this data. What is the respondents that report
 
 ## Research on gratitude
 Berkeley has put together an amazing site on the science and practice of gratitude. [Check it out.](http://greatergood.berkeley.edu/resources/studies#gratitude)
+
+## Research mentioned in workshop that lack links on this page:
+- Mental illness now number one reason for sick leave in Sweden.
+- Main cause of mental illness: acute stress reaction.
+- More common among females.
+- More common among teachers and nurses.
+- Most common at ages 30-40.
+- Stress correlation with cancer. (not causing!)
+- Challenge vs. threat response
+- The talking cure research, prefrontal cortex
+- Lower concentration as result of stress
+- Lack of feedback as one of the main reasons for burnout
+- Activate sympathetic nervous system by notification
+
+## Topics to further research:
+- How is stress correlated with workload? (rather than control vs. responsibility)
+- Different reactions to stress depending on genetics
+- Social stress vs. workload stress – what is the root cause of stress?
+- How much stress in indeginous / preindustrial cultures?
+- Amygdala size correlation to stress
+
