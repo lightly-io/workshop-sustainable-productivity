@@ -14,12 +14,14 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Steven Pinker – How The Mind Works
 - Brian Rock - Your Brain at Work
 - Stanislav Dehaene - Consciousness and the Brain
+- Brian Kolb – Fundamentals of Human Neuropsychology
 -	... and anything by Oliver Sacks.  
 
 ####	Organization
 -	Salim Ismail - Exponential Organizations*
 -	Frederic Laloux - Reinventing Organizations*
 -	Jason Fried - Rework
+- Tom DeMarco – Peopleware
 
 ####	Philosophy
 -	Jeff Bridges & Bernie Glassman – The Dude & The Zen Master
@@ -54,11 +56,7 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 - The Mayo Clinic Guide To Stress Free Living (don't judge it by it's cover!) *
 - Kelly McGonigal - The Upside of Stress
 -	Yuval Noah Harari - Sapiens
-
-#### Poetry & prose
--	Jack Kerouac – Dharma Bums
--	Lao Tzu – Tao Te Ching
--	Walt Whitman – Leaves of Grass
+- Yuval Noah Harari – Homo Deus
 
 ## Free guided meditations
 - [Tara Brach](https://www.tarabrach.com/guided-meditations/)
