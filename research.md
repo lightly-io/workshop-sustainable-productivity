@@ -9,7 +9,7 @@ http://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-
 http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness
 
 ## Research on meditation
-There has been many studies on meditation in the last years. It has been proven to improve everything from immune system to psoriasis. However, few of the studies have had a double-blind placebo control group, so it's hard to know if these effects are caused by placebo. You could argue that if it works, it works. Or maybe it's just good to sit down for a while and not try to achieve. We don't know yet.
+There has been many studies on meditation in the last years. It has been proven to improve everything from immune system to psoriasis. However, few of the studies have had a double-blind placebo control group, so it's hard to know if these effects are caused by placebo. You could argue that if it works, it works. Or maybe it's just good to sit down for a while and chill for half an hour every day. We don't know yet.
 
 Here's a list of studies on meditation, and what they say they've proven that it affects:
 
@@ -31,7 +31,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 -	Metabolism	http://www.ncbi.nlm.nih.gov/pubmed/16536641
 -	Brain activity	http://www.ncbi.nlm.nih.gov/pubmed/16536641
 -	Symptoms of burnout	http://www.ncbi.nlm.nih.gov/pubmed/16728295
--	... and thus performance in IQ-tests.	http://pss.sagepub.com/content/16/12/939.short
+-	Performance in IQ-tests.	http://pss.sagepub.com/content/16/12/939.short
 -	Relaxation	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
 -	Concentration	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
 -	Patience	http://www.tandfonline.com/doi/abs/10.1080/13569080050020263#.VHw2BmTF-nA
