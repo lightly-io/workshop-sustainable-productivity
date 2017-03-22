@@ -12,16 +12,19 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Daniel Levitin – The Organized Mind  
 -	Hana Ros & Matteo Farinella – Neurocomic  
 -	Steven Pinker – How The Mind Works
+- V.S. Ramachandran – Phantoms in the Brain
 - Brian Rock - Your Brain at Work
 - Stanislav Dehaene - Consciousness and the Brain
 - Brian Kolb – Fundamentals of Human Neuropsychology
 -	... and anything by Oliver Sacks.  
 
-####	Organization
+####	Organization & Productivity
 -	Salim Ismail - Exponential Organizations*
 -	Frederic Laloux - Reinventing Organizations*
 -	Jason Fried - Rework
 - Tom DeMarco – Peopleware
+- Tim Ferriss – Tools of Titans
+- Tim Ferriss – The 4-hour work week
 
 ####	Philosophy
 -	Jeff Bridges & Bernie Glassman – The Dude & The Zen Master
