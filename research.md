@@ -8,6 +8,8 @@ https://prezi.com/uzxlufuhqpae/mind-mechanics-mindfulness-visualized/?utm_campai
 http://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/
 http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness
 
+The best primer on how the brain works is the first two parts of: http://waitbutwhy.com/2017/04/neuralink.html
+
 ## Research on meditation
 There has been many studies on meditation in the last years. It has been proven to improve everything from immune system to psoriasis. However, few of the studies have had a double-blind placebo control group, so it's hard to know if these effects are caused by placebo. You could argue that if it works, it works. Or maybe it's just good to sit down for a while and chill for half an hour every day. We don't know yet.
 
