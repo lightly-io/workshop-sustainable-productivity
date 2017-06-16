@@ -43,6 +43,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 -	Intelligence test scores	http://www.sciencedirect.com/science/article/pii/019188699190040I
 -	Awareness	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
 -	Perception	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
+-	Amygdala size	https://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/
 
 ## Research on stress and productivity
 - "[The Global Benefits Attitudes survey](https://www.towerswatson.com/DownloadMedia.aspx?media=%7B581A704A-0635-43CA-8073-CB79D6FBCF52%7D) found that levels of workplace disengagement significantly increase when employees experience high levels of stress.  The study of 22,347 employees across 12 countries including the UK and US, revealed that over half of those employees claiming to be experiencing high stress levels reported they were disengaged.  By contrast, only one in ten employees claiming low stress levels reported they were disengaged and half of this group claimed to be highly engaged." 
@@ -83,6 +84,7 @@ There is another way to interpret this data. What is the respondents that report
 - [Mental illness sick leave most common in ages 30-39.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
 - [Mental illness most common among teachers and health workers.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
 - [Lack of feedback as a reasons for burnout](https://hbr.org/2016/11/beating-burnout)
+- [Instagram ranked worst social media for mental health](http://www.telegraph.co.uk/news/2017/05/19/instagram-ranked-worst-social-network-young-peoples-mental-health/)
 
 ## Topics to further research:
 - How is stress correlated with workload? (rather than control vs. responsibility)
