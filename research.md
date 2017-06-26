@@ -55,6 +55,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - “[Stress can be something that makes you better, but it is a question of how much, how long and how you interpret or perceive it.](http://news.berkeley.edu/2013/04/16/researchers-find-out-why-some-stress-is-good-for-you/)”
 - "[Programmer, interrupted.](http://blog.ninlabs.com/2013/01/programmer-interrupted/)"
 - [Activate sympathetic nervous system by notification.](http://jass.neuro.wisc.edu/2015/01/Lab%20601%20Group%2012.pdf)
+- [Cognitive ability reduced by phone proximity](http://www.journals.uchicago.edu/doi/10.1086/691462)
 
 ## Stress and health
 There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even [cause depressions](http://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037).
