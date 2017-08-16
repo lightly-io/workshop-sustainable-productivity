@@ -86,6 +86,7 @@ There is another way to interpret this data. What is the respondents that report
 - [Mental illness most common among teachers and health workers.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
 - [Lack of feedback as a reasons for burnout](https://hbr.org/2016/11/beating-burnout)
 - [Instagram ranked worst social media for mental health](http://www.telegraph.co.uk/news/2017/05/19/instagram-ranked-worst-social-network-young-peoples-mental-health/)
+- [Feeling bad about feeling bad can make you feel worse](http://www.sciencedirect.com/science/article/pii/S0005796705002068)
 
 ## Topics to further research:
 - How is stress correlated with workload? (rather than control vs. responsibility)
