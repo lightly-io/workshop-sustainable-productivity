@@ -1,14 +1,13 @@
 # Research
 
-## Simple reads
-https://www.youtube.com/watch?v=Aw71zanwMnY - The science of meditation (ASAP)
-http://www.forbes.com/sites/alicegwalton/2015/02/09/7-ways-meditation-can-actually-change-the-brain/
-https://www.psychologytoday.com/blog/the-neuroscience-mindfulness/201602/the-science-slow-deep-breathing
-https://prezi.com/uzxlufuhqpae/mind-mechanics-mindfulness-visualized/?utm_campaign=share&utm_medium=copy
-http://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/
-http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness
-
 The best primer on how the brain works is the first two parts of this WaitButWhy post: http://waitbutwhy.com/2017/04/neuralink.html
+
+## Simple reads on science & meditation
+[The science of meditation](https://www.youtube.com/watch?v=Aw71zanwMnY) 
+[The science of slow breathing]https://www.psychologytoday.com/blog/the-neuroscience-mindfulness/201602/the-science-slow-deep-breathing)
+[Mind mechanics of mindfulness, visualized](https://prezi.com/uzxlufuhqpae/mind-mechanics-mindfulness-visualized/?utm_campaign=share&utm_medium=copy)
+[What does mindfulness meditation do to your brain?](http://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/)
+[Harvard: Evidence based research, mindfulness](http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness)
 
 ## Research on meditation
 There has been many studies on meditation in the last years. It has been proven to improve everything from immune system to psoriasis. However, few of the studies have had a double-blind placebo control group, so it's hard to know if these effects are caused by placebo. You could argue that if it works, it works. Or maybe it's just good to sit down for a while and chill for half an hour every day. We don't know yet.
@@ -60,7 +59,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 ## Stress and health
 There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even [cause depressions](http://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037).
 
-- "Chronic stress may also cause disease, either because of changes in your body or the overeating, smoking and other bad habits people use to cope with stress. Job strain — high demands coupled with low decision-making latitude — is associated with increased risk of coronary disease, for example." [American Psychological Association] (http://www.apa.org/helpcenter/stress.aspx)
+- "Chronic stress may also cause disease, either because of changes in your body or the overeating, smoking and other bad habits people use to cope with stress. Job strain — high demands coupled with low decision-making latitude — is associated with increased risk of coronary disease, for example." [American Psychological Association](http://www.apa.org/helpcenter/stress.aspx)
 
 However, a Stanford researcher claims that stress only causes health to deteriorate when we view stress as something negative. As long as we look at our stress in a positive way, it's not harmful.
 
@@ -68,8 +67,8 @@ However, a Stanford researcher claims that stress only causes health to deterior
 
 There is another way to interpret this data. What is the respondents that report that they have a negative outlook on stress do that *because* they have experienced physical pain? Is this causation or correlation? We need further research to know for sure.
 
-- [Stress correlated with, but not causing, cancer.] (https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
-- [Challenge vs threat response.] (http://www.sicotests.com/psyarticle.asp?id=281)
+- [Stress correlated with, but not causing, cancer.](https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
+- [Challenge vs threat response.](http://www.sicotests.com/psyarticle.asp?id=281)
 - [A single question via SMS correlates well with burnout](https://academic.oup.com/occmed/article-abstract/doi/10.1093/occmed/kqx111/4084572/Work-related-stress-assessed-by-a-text-message?redirectedFrom=fulltext)
 
 ## Other methods for reducing stress
