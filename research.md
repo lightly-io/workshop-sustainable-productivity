@@ -8,7 +8,7 @@ https://prezi.com/uzxlufuhqpae/mind-mechanics-mindfulness-visualized/?utm_campai
 http://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/
 http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness
 
-The best primer on how the brain works is the first two parts of: http://waitbutwhy.com/2017/04/neuralink.html
+The best primer on how the brain works is the first two parts of this WaitButWhy post: http://waitbutwhy.com/2017/04/neuralink.html
 
 ## Research on meditation
 There has been many studies on meditation in the last years. It has been proven to improve everything from immune system to psoriasis. However, few of the studies have had a double-blind placebo control group, so it's hard to know if these effects are caused by placebo. You could argue that if it works, it works. Or maybe it's just good to sit down for a while and chill for half an hour every day. We don't know yet.
@@ -74,17 +74,17 @@ There is another way to interpret this data. What is the respondents that report
 
 ## Other methods for reducing stress
 - Berkeley has put together an amazing site on the science and practice of gratitude. [Check it out.](http://greatergood.berkeley.edu/resources/studies#gratitude)
-- [The talking cure.] (https://books.google.se/books?id=QFd02VbaJJMC&pg=PA227&lpg=PA227&dq=the+talking+cure+amygdala&source=bl&ots=bhJIwakquK&sig=cenfH1CHfaxGJDp4F8PXtYEkWaA&hl=sv&sa=X&ved=0ahUKEwiV573lgsnRAhXhDMAKHYCcDjAQ6AEIVDAH#v=onepage&q=the%20talking%20cure%20amygdala&f=false)
+- [The talking cure.](https://books.google.se/books?id=QFd02VbaJJMC&pg=PA227&lpg=PA227&dq=the+talking+cure+amygdala&source=bl&ots=bhJIwakquK&sig=cenfH1CHfaxGJDp4F8PXtYEkWaA&hl=sv&sa=X&ved=0ahUKEwiV573lgsnRAhXhDMAKHYCcDjAQ6AEIVDAH#v=onepage&q=the%20talking%20cure%20amygdala&f=false)
 - Walking as a method for reflection. http://www.newyorker.com/tech/elements/walking-helps-us-think
 - Journaling: "[This study](http://apt.rcpsych.org/content/11/5/338.full) from the journal Advances in Psychiatric Treatment is a great experiment, and a solid summary of current research on the topic. In the piece, the researchers noted that 15–20 minutes on 3–5 occasions was enough to help the study participants deal with traumatic, stressful, or otherwise emotional events."
 
 ## Research on mental illness
 - [Mental illness more common than physical illness.]( https://www.forsakringskassan.se/press/pressmeddelanden/!ut/p/z1/rZJNU4MwEIZ_iweOkOWzqTc4lNap1dGxLbkwKQRKgUBJCtZfb-h40VE7zphLJsnuu8--G0TQFhFO-yKnsmg4rdQ5Il6MLbgPAtOHB89xYDGdrcxgubRmcxOtEUEk4bKVexQlDZeMS8E0aDsmxMdWszRlFeUp4xoIOV7FPeWVKiMki5tO0JLxWBZVFYvDqRRlV_S84Pmo3SZFiiKPwTTDHugTj4Lu0J2lTzHGOnaYC4nrZrY7QZtrsEQ9ww_LB5VProVEqsQktk2A6VgixCHA4vHFDte-9bReKIa-YAN64U1XK_ue_9jBHNDdBeGXJtRIisPxSHzl--j3q0TbfzdeUWSlcRExvkqNBD7f2VjNp2MZ61hnnDr1V_ZStuJWAw2GYTDypskrZoxM32XsG6HAPwWitq6xfdb5W7DSw41Odufh5h0irUfq/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
-- [Stress most common reason for sick leave in Sweden.]( https://www.forsakringskassan.se/press/pressmeddelanden/!ut/p/z1/rZJNU4MwEIZ_iweOkOWzqTc4lNap1dGxLbkwKQRKgUBJCtZfb-h40VE7zphLJsnuu8--G0TQFhFO-yKnsmg4rdQ5Il6MLbgPAtOHB89xYDGdrcxgubRmcxOtEUEk4bKVexQlDZeMS8E0aDsmxMdWszRlFeUp4xoIOV7FPeWVKiMki5tO0JLxWBZVFYvDqRRlV_S84Pmo3SZFiiKPwTTDHugTj4Lu0J2lTzHGOnaYC4nrZrY7QZtrsEQ9ww_LB5VProVEqsQktk2A6VgixCHA4vHFDte-9bReKIa-YAN64U1XK_ue_9jBHNDdBeGXJtRIisPxSHzl--j3q0TbfzdeUWSlcRExvkqNBD7f2VjNp2MZ61hnnDr1V_ZStuJWAw2GYTDypskrZoxM32XsG6HAPwWitq6xfdb5W7DSw41Odufh5h0irUfq/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
-- [Mental illness more common among females. Note: this is only *reported mental illness* – it might be as common among men in reality.] (https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/folkhalsans-utveckling/sjalvrapporterad-psykisk-ohalsa-i-befolkningen/)
-- When females and males have the same kind of jobs, females do not report higher stress levels: [Statens beredning för medicinsk och social utvärdering](http://www.sbu.se/)
-- [Mental illness sick leave most common in ages 30-39.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
-- [Mental illness most common among teachers and health workers.] (http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena)
+- [Stress most common reason for sick leave in Sweden.](https://www.forsakringskassan.se/press/pressmeddelanden/!ut/p/z1/rZJNU4MwEIZ_iweOkOWzqTc4lNap1dGxLbkwKQRKgUBJCtZfb-h40VE7zphLJsnuu8--G0TQFhFO-yKnsmg4rdQ5Il6MLbgPAtOHB89xYDGdrcxgubRmcxOtEUEk4bKVexQlDZeMS8E0aDsmxMdWszRlFeUp4xoIOV7FPeWVKiMki5tO0JLxWBZVFYvDqRRlV_S84Pmo3SZFiiKPwTTDHugTj4Lu0J2lTzHGOnaYC4nrZrY7QZtrsEQ9ww_LB5VProVEqsQktk2A6VgixCHA4vHFDte-9bReKIa-YAN64U1XK_ue_9jBHNDdBeGXJtRIisPxSHzl--j3q0TbfzdeUWSlcRExvkqNBD7f2VjNp2MZ61hnnDr1V_ZStuJWAw2GYTDypskrZoxM32XsG6HAPwWitq6xfdb5W7DSw41Odufh5h0irUfq/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+- [Mental illness more common among females. Note: this is only *reported mental illness* – it might be as common among men in reality.](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/folkhalsans-utveckling/sjalvrapporterad-psykisk-ohalsa-i-befolkningen/)
+- When females and males have the same kind of jobs, females do not report higher stress levels: [Statens beredning för medicinsk och social utvärdering](http://www.sbu.se/) (Swedish)
+- [Mental illness sick leave most common in ages 30-39.](http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena) (Swedish)
+- [Mental illness most common among teachers and health workers.](http://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-de-mest-utsatta-yrkena) (Swedish)
 - [Lack of feedback as a reasons for burnout](https://hbr.org/2016/11/beating-burnout)
 - [Instagram ranked worst social media for mental health](http://www.telegraph.co.uk/news/2017/05/19/instagram-ranked-worst-social-network-young-peoples-mental-health/)
 - [Feeling bad about feeling bad can make you feel worse](http://www.sciencedirect.com/science/article/pii/S0005796705002068)
