@@ -31,7 +31,7 @@ There is another way to interpret this data. What is the respondents that report
 
 ## Simple reads on science & meditation
 - [The science of meditation](https://www.youtube.com/watch?v=Aw71zanwMnY) 
-- [The science of slow breathing]https://www.psychologytoday.com/blog/the-neuroscience-mindfulness/201602/the-science-slow-deep-breathing)
+- [The science of slow breathing](https://www.psychologytoday.com/blog/the-neuroscience-mindfulness/201602/the-science-slow-deep-breathing)
 - [Mind mechanics of mindfulness, visualized](https://prezi.com/uzxlufuhqpae/mind-mechanics-mindfulness-visualized/?utm_campaign=share&utm_medium=copy)
 - [What does mindfulness meditation do to your brain?](http://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/)
 - [Harvard: Evidence based research, mindfulness](http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness)
