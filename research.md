@@ -70,6 +70,7 @@ There is another way to interpret this data. What is the respondents that report
 
 - [Stress correlated with, but not causing, cancer.] (https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
 - [Challenge vs threat response.] (http://www.sicotests.com/psyarticle.asp?id=281)
+- [A single question via SMS correlates well with burnout](https://academic.oup.com/occmed/article-abstract/doi/10.1093/occmed/kqx111/4084572/Work-related-stress-assessed-by-a-text-message?redirectedFrom=fulltext)
 
 ## Other methods for reducing stress
 - Berkeley has put together an amazing site on the science and practice of gratitude. [Check it out.](http://greatergood.berkeley.edu/resources/studies#gratitude)
