@@ -2,6 +2,33 @@
 
 The best primer on how the brain works is the first two parts of this WaitButWhy post: http://waitbutwhy.com/2017/04/neuralink.html
 
+## Research on stress and productivity
+- "[The Global Benefits Attitudes survey](https://www.towerswatson.com/DownloadMedia.aspx?media=%7B581A704A-0635-43CA-8073-CB79D6FBCF52%7D) found that levels of workplace disengagement significantly increase when employees experience high levels of stress.  The study of 22,347 employees across 12 countries including the UK and US, revealed that over half of those employees claiming to be experiencing high stress levels reported they were disengaged.  By contrast, only one in ten employees claiming low stress levels reported they were disengaged and half of this group claimed to be highly engaged." 
+- "Health care expenditures at high-pressure companies are [nearly 50% greater](http://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-11-642) than at other organizations."
+- "In a [large-scale study](http://ki.se/en/news/poor-leadership-poses-a-health-risk-at-work) of over 3,000 employees conducted by Anna Nyberg at the Karolinska Institute, results showed a strong link between leadership behavior and heart disease in employees. Stress-producing bosses are literally bad for the heart."
+- "[Sixty percent of lost workdays each year can be attributed to stress.](http://www.fdu.edu/newspubs/magazine/99su/stress.html)"
+- "[When work begins to overlap with workers' personal life this implies a negative effect on productivity.](http://www.emeraldinsight.com/doi/abs/10.1108/17410401011052869)"
+- "Research has found that different tasks require different levels of arousal for optimal performance. For example, difficult or intellectually demanding tasks may require a lower level of arousal (to facilitate concentration), whereas tasks demanding stamina or persistence may be performed better with higher levels of arousal (to increase motivation). [The downward part is caused by negative effects of arousal (or stress) on cognitive processes like attention (e.g., "tunnel vision"), memory, and problem-solving.](http://www.sciencedirect.com/science/article/pii/S0278262607000322)"
+- “[Stress can be something that makes you better, but it is a question of how much, how long and how you interpret or perceive it.](http://news.berkeley.edu/2013/04/16/researchers-find-out-why-some-stress-is-good-for-you/)”
+- "[Programmer, interrupted.](http://blog.ninlabs.com/2013/01/programmer-interrupted/)"
+- [Activate sympathetic nervous system by notification.](http://jass.neuro.wisc.edu/2015/01/Lab%20601%20Group%2012.pdf)
+- [Cognitive ability reduced by phone proximity](http://www.journals.uchicago.edu/doi/10.1086/691462)
+
+## Stress and health
+There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even [cause depressions](http://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037).
+
+- "Chronic stress may also cause disease, either because of changes in your body or the overeating, smoking and other bad habits people use to cope with stress. Job strain — high demands coupled with low decision-making latitude — is associated with increased risk of coronary disease, for example." [American Psychological Association](http://www.apa.org/helpcenter/stress.aspx)
+
+However, a Stanford researcher claims that stress only causes health to deteriorate when we view stress as something negative. As long as we look at our stress in a positive way, it's not harmful.
+
+- "[Viewing stress as a helpful part of life, rather than as harmful, is associated with better health, emotional well-being and productivity at work – even during periods of high stress.](https://news.stanford.edu/2015/05/07/stress-embrace-mcgonigal-050715/)"
+
+There is another way to interpret this data. What is the respondents that report that they have a negative outlook on stress do that *because* they have experienced physical pain? Is this causation or correlation? We need further research to know for sure.
+
+- [Stress correlated with, but not causing, cancer.](https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
+- [Challenge vs threat response.](http://www.sicotests.com/psyarticle.asp?id=281)
+- [A single question via SMS correlates well with burnout](https://academic.oup.com/occmed/article-abstract/doi/10.1093/occmed/kqx111/4084572/Work-related-stress-assessed-by-a-text-message?redirectedFrom=fulltext)
+
 ## Simple reads on science & meditation
 - [The science of meditation](https://www.youtube.com/watch?v=Aw71zanwMnY) 
 - [The science of slow breathing]https://www.psychologytoday.com/blog/the-neuroscience-mindfulness/201602/the-science-slow-deep-breathing)
@@ -43,33 +70,6 @@ Here's a list of studies on meditation, and what they say they've proven that it
 -	Awareness	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
 -	Perception	http://informahealthcare.com/doi/abs/10.3109/00207458409089814
 -	Amygdala size	https://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/
-
-## Research on stress and productivity
-- "[The Global Benefits Attitudes survey](https://www.towerswatson.com/DownloadMedia.aspx?media=%7B581A704A-0635-43CA-8073-CB79D6FBCF52%7D) found that levels of workplace disengagement significantly increase when employees experience high levels of stress.  The study of 22,347 employees across 12 countries including the UK and US, revealed that over half of those employees claiming to be experiencing high stress levels reported they were disengaged.  By contrast, only one in ten employees claiming low stress levels reported they were disengaged and half of this group claimed to be highly engaged." 
-- "Health care expenditures at high-pressure companies are [nearly 50% greater](http://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-11-642) than at other organizations."
-- "In a [large-scale study](http://ki.se/en/news/poor-leadership-poses-a-health-risk-at-work) of over 3,000 employees conducted by Anna Nyberg at the Karolinska Institute, results showed a strong link between leadership behavior and heart disease in employees. Stress-producing bosses are literally bad for the heart."
-- "[Sixty percent of lost workdays each year can be attributed to stress.](http://www.fdu.edu/newspubs/magazine/99su/stress.html)"
-- "[When work begins to overlap with workers' personal life this implies a negative effect on productivity.](http://www.emeraldinsight.com/doi/abs/10.1108/17410401011052869)"
-- "Research has found that different tasks require different levels of arousal for optimal performance. For example, difficult or intellectually demanding tasks may require a lower level of arousal (to facilitate concentration), whereas tasks demanding stamina or persistence may be performed better with higher levels of arousal (to increase motivation). [The downward part is caused by negative effects of arousal (or stress) on cognitive processes like attention (e.g., "tunnel vision"), memory, and problem-solving.](http://www.sciencedirect.com/science/article/pii/S0278262607000322)"
-- “[Stress can be something that makes you better, but it is a question of how much, how long and how you interpret or perceive it.](http://news.berkeley.edu/2013/04/16/researchers-find-out-why-some-stress-is-good-for-you/)”
-- "[Programmer, interrupted.](http://blog.ninlabs.com/2013/01/programmer-interrupted/)"
-- [Activate sympathetic nervous system by notification.](http://jass.neuro.wisc.edu/2015/01/Lab%20601%20Group%2012.pdf)
-- [Cognitive ability reduced by phone proximity](http://www.journals.uchicago.edu/doi/10.1086/691462)
-
-## Stress and health
-There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even [cause depressions](http://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037).
-
-- "Chronic stress may also cause disease, either because of changes in your body or the overeating, smoking and other bad habits people use to cope with stress. Job strain — high demands coupled with low decision-making latitude — is associated with increased risk of coronary disease, for example." [American Psychological Association](http://www.apa.org/helpcenter/stress.aspx)
-
-However, a Stanford researcher claims that stress only causes health to deteriorate when we view stress as something negative. As long as we look at our stress in a positive way, it's not harmful.
-
-- "[Viewing stress as a helpful part of life, rather than as harmful, is associated with better health, emotional well-being and productivity at work – even during periods of high stress.](https://news.stanford.edu/2015/05/07/stress-embrace-mcgonigal-050715/)"
-
-There is another way to interpret this data. What is the respondents that report that they have a negative outlook on stress do that *because* they have experienced physical pain? Is this causation or correlation? We need further research to know for sure.
-
-- [Stress correlated with, but not causing, cancer.](https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
-- [Challenge vs threat response.](http://www.sicotests.com/psyarticle.asp?id=281)
-- [A single question via SMS correlates well with burnout](https://academic.oup.com/occmed/article-abstract/doi/10.1093/occmed/kqx111/4084572/Work-related-stress-assessed-by-a-text-message?redirectedFrom=fulltext)
 
 ## Other methods for reducing stress
 - Berkeley has put together an amazing site on the science and practice of gratitude. [Check it out.](http://greatergood.berkeley.edu/resources/studies#gratitude)
