@@ -3,11 +3,11 @@
 The best primer on how the brain works is the first two parts of this WaitButWhy post: http://waitbutwhy.com/2017/04/neuralink.html
 
 ## Simple reads on science & meditation
-[The science of meditation](https://www.youtube.com/watch?v=Aw71zanwMnY) 
-[The science of slow breathing]https://www.psychologytoday.com/blog/the-neuroscience-mindfulness/201602/the-science-slow-deep-breathing)
-[Mind mechanics of mindfulness, visualized](https://prezi.com/uzxlufuhqpae/mind-mechanics-mindfulness-visualized/?utm_campaign=share&utm_medium=copy)
-[What does mindfulness meditation do to your brain?](http://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/)
-[Harvard: Evidence based research, mindfulness](http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness)
+- [The science of meditation](https://www.youtube.com/watch?v=Aw71zanwMnY) 
+- [The science of slow breathing]https://www.psychologytoday.com/blog/the-neuroscience-mindfulness/201602/the-science-slow-deep-breathing)
+- [Mind mechanics of mindfulness, visualized](https://prezi.com/uzxlufuhqpae/mind-mechanics-mindfulness-visualized/?utm_campaign=share&utm_medium=copy)
+- [What does mindfulness meditation do to your brain?](http://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/)
+- [Harvard: Evidence based research, mindfulness](http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness)
 
 ## Research on meditation
 There has been many studies on meditation in the last years. It has been proven to improve everything from immune system to psoriasis. However, few of the studies have had a double-blind placebo control group, so it's hard to know if these effects are caused by placebo. You could argue that if it works, it works. Or maybe it's just good to sit down for a while and chill for half an hour every day. We don't know yet.
