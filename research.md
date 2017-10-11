@@ -23,7 +23,7 @@ However, a Stanford researcher claims that stress only causes health to deterior
 
 - "[Viewing stress as a helpful part of life, rather than as harmful, is associated with better health, emotional well-being and productivity at work – even during periods of high stress.](https://news.stanford.edu/2015/05/07/stress-embrace-mcgonigal-050715/)"
 
-There is another way to interpret this data. What is the respondents that report that they have a negative outlook on stress do that *because* they have experienced physical pain? Is this causation or correlation? We need further research to know for sure.
+There is another way to interpret this data. What if the respondents that report that they have a negative outlook on stress do that *because* they have experienced physical pain? Is this causation or correlation? We need further research to know for sure.
 
 - [Stress correlated with, but not causing, cancer.](https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
 - [Challenge vs threat response.](http://www.sicotests.com/psyarticle.asp?id=281)
@@ -92,5 +92,5 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - How is stress correlated with workload? (rather than control vs. responsibility)
 - Different reactions to stress depending on genetics
 - Social stress vs. workload stress – what is the root cause of stress?
-- How much stress in indeginous / preindustrial cultures?
+- How much stress in indigenous / preindustrial cultures?
 - Amygdala size correlation to stress
