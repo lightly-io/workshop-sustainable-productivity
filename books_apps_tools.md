@@ -61,6 +61,9 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Yuval Noah Harari - Sapiens
 - Yuval Noah Harari – Homo Deus
 
+#### Work environment & stress research
+For this particular category, I will be recommending a PDF instead of a book. Go sign up at http://www.prevent.se/onhumanterms/ and download the document on work environment. It summarizes in a clear way a lot of relevant research on stress, productivity and burnout. By spending an hour or so with this PDF, you'll get a good grasp of the relationship between workload, control, fatigue and leadership.
+
 ## Free guided meditations
 - [Tara Brach](https://www.tarabrach.com/guided-meditations/)
 - [UCLA Mindfulness Research Centre](http://marc.ucla.edu/body.cfm?id=22)
