@@ -95,16 +95,6 @@ I recommend looking at Amazon reviews for all of these products before ordering 
 
 **Muse Headband** measures your brain activity and gives you bio-feedback while you're meditating.
 
-## Podcasts
-- Buddha at the Gas Pump
-- Joseph Goldstein
-- Jack Kornfield
-- On Being
-- Tara Brach
-- Sam Harris
-- Buddhist Geeks
-- Zencast (#455 with Alan Watts is great!)
-
 ## Video
 - [Google Talk: Chade-Meng Tan, Search Inside Yourself.](https://www.youtube.com/watch?v=r8fcqrNO7so)
 - [Google Talk: Daniel Goleman, Focus.](https://www.youtube.com/watch?v=b9yRmpcXKjY)
