@@ -29,6 +29,7 @@ There is another way to interpret this data. What if the respondents that report
 - [Stress correlated with, but not causing, cancer.](https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
 - [Challenge vs threat response.](http://www.sicotests.com/psyarticle.asp?id=281)
 - [A single question via SMS correlates well with burnout](https://academic.oup.com/occmed/article-abstract/doi/10.1093/occmed/kqx111/4084572/Work-related-stress-assessed-by-a-text-message?redirectedFrom=fulltext)
+- [An event which exceeds the ability to cope does not necessarily have to occur in order for one to experience stress, as the threat of such an event occurring can be sufficient.]( http://changingminds.org/explanations/theories/cognitive_appraisal_theories.htm)
 
 ## Simple reads on science & meditation
 - [The science of meditation](https://www.youtube.com/watch?v=Aw71zanwMnY) 
@@ -89,9 +90,13 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - [Instagram ranked worst social media for mental health](http://www.telegraph.co.uk/news/2017/05/19/instagram-ranked-worst-social-network-young-peoples-mental-health/)
 - [Feeling bad about feeling bad can make you feel worse](http://www.sciencedirect.com/science/article/pii/S0005796705002068)
 
+## Other
+- For an overview of the evolution of the human species, see [Wikipedias entry on homo sapiens] (https://en.wikipedia.org/wiki/Homo_sapiens).
+
 ## Topics to further research:
-- How is stress correlated with workload? (rather than control vs. responsibility)
-- Different reactions to stress depending on genetics
-- Social stress vs. workload stress – what is the root cause of stress?
-- How much stress in indigenous / preindustrial cultures?
-- Amygdala size correlation to stress
+- Amygdala genetics size
+- Stress in pre-industrial cultures
+- Amygdala size based on trauma in childhood
+
+## Theories I haven't seen research on yet
+- When I ask people what they are stressed about, the root cause is most often a social consequence of failure. Might this be because human beings are evolutionary a group animal, and that we could not survive on our own?
