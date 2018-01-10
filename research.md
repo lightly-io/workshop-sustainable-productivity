@@ -89,6 +89,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - [Lack of feedback as a reasons for burnout](https://hbr.org/2016/11/beating-burnout)
 - [Instagram ranked worst social media for mental health](http://www.telegraph.co.uk/news/2017/05/19/instagram-ranked-worst-social-network-young-peoples-mental-health/)
 - [Feeling bad about feeling bad can make you feel worse](http://www.sciencedirect.com/science/article/pii/S0005796705002068)
+- [On the amygdala's subconscious role.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025529/)
 
 ## Other
 - For an overview of the evolution of the human species, see [Wikipedias entry on homo sapiens] (https://en.wikipedia.org/wiki/Homo_sapiens).
