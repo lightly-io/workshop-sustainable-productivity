@@ -92,7 +92,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - [On the amygdala's subconscious role.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025529/)
 
 ## Other
-- For an overview of the evolution of the human species, see [Wikipedias entry on homo sapiens] (https://en.wikipedia.org/wiki/Homo_sapiens).
+- For an overview of the evolution of the human species, see [Wikipedias entry on homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens).
 
 ## Topics to further research:
 - Amygdala genetics size
