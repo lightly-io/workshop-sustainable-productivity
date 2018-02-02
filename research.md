@@ -91,6 +91,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - [Feeling bad about feeling bad can make you feel worse](http://www.sciencedirect.com/science/article/pii/S0005796705002068)
 - [On the amygdala's subconscious role.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025529/)
 - Short term goals linked to increase stress in the workplace. Page 35 of the psychosocial work environment PDF:  https://www.prevent.se/onhumanterms/
+- Does depression have a function? “If something is broken in your life, you need to bear down and mend it.” 3. Andrews, P.W. & Thomson Jr., J.A. The bright side of being blue: Depression as an adaptation for analyzing complex problems. Psychological Review 116, 620-654 (2009).
 
 ## Other
 - For an overview of the evolution of the human species, see [Wikipedias entry on homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens).
