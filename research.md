@@ -30,6 +30,7 @@ There is another way to interpret this data. What if the respondents that report
 - [Challenge vs threat response.](http://www.sicotests.com/psyarticle.asp?id=281)
 - [A single question via SMS correlates well with burnout](https://academic.oup.com/occmed/article-abstract/doi/10.1093/occmed/kqx111/4084572/Work-related-stress-assessed-by-a-text-message?redirectedFrom=fulltext)
 - [An event which exceeds the ability to cope does not necessarily have to occur in order for one to experience stress, as the threat of such an event occurring can be sufficient.]( http://changingminds.org/explanations/theories/cognitive_appraisal_theories.htm)
+- “The data showed that people with greater upper body strength were less likely to suffer depression.” 9. Hagen, E.H. & Rosenström, T. Explaining the sex difference in depression with a unified bargaining model of anger and depression. Evolution, Medicine, & Public Health 1, 117-132 (2016).
 
 ## Simple reads on science & meditation
 - [The science of meditation](https://www.youtube.com/watch?v=Aw71zanwMnY) 
