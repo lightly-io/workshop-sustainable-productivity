@@ -99,6 +99,4 @@ Here's a list of studies on meditation, and what they say they've proven that it
 
 ## Other
 - For an overview of the evolution of the human species, see [Wikipedias entry on homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens).
-
-## Theories I haven't seen research on yet
-- When I ask people what they are stressed about, the root cause is most often a social consequence of failure. Might this be because human beings are evolutionary a group animal, and that we could not survive on our own?
+- RescueTime's data on how much time we spend on Slack and email. https://blog.rescuetime.com/225-million-hours-productivity/
