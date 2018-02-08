@@ -82,7 +82,7 @@ For this particular category, I will be recommending a PDF instead of a book. Go
 
 [**Freedom**](https://freedom.to/) shuts down your internet connection. :) I enjoyed their previous version more. It had just a timer, and no options. 
 
-Other choices include Buddhify, Whi, and Insight Timer. I use an app called **Pranayama** to help with my deep breathing. It looks weird, but works like a charm. If you want to practice your breath at your laptop, use http://www.xhalr.com/.
+Other choices include Buddhify, Whi, and Insight Timer. I use an app called **Pranayama** to help with my deep breathing. It looks weird, but works like a charm. If you want to practice your breath at your laptop, use http://www.xhalr.com/. Or this [gif](https://giphy.com/gifs/help-satisfying-breathe-krP2NRkLqnKEg).
 
 To improve my sleep I use [f.lux](https://justgetflux.com/).
 
