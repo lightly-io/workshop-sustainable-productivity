@@ -76,11 +76,11 @@ For this particular category, I will be recommending a PDF instead of a book. Go
 
 [**Calm.com**](http://www.calm.com) is another popular choice, and more affordable than Headspace.
 
-[**Thriver**](http://www.thriver.io) is the product I'm working on. In addition to guided and unguided meditations, Thriver also helps your organization track stress levels on a team basis. The app is free forever with no strings attached.
-
-[**Self-Control**](https://selfcontrolapp.com/) shuts down distracting websites.
+[**Self-Control**](https://selfcontrolapp.com/) shuts down distracting websites. 
 
 [**Freedom**](https://freedom.to/) shuts down your internet connection. :) I enjoyed their previous version more. It had just a timer, and no options. 
+
+[**HabitsLab**](https://habitlab.stanford.edu/) from Stanford is a Chrome extention that reminds you to spend less time on websites that you have a bad habit to spend too much time on.
 
 Other choices include Buddhify, Whi, and Insight Timer. I use an app called **Pranayama** to help with my deep breathing. It looks weird, but works like a charm. If you want to practice your breath at your laptop, use http://www.xhalr.com/. Or this [gif](https://giphy.com/gifs/help-satisfying-breathe-krP2NRkLqnKEg).
 
