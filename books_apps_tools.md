@@ -16,6 +16,7 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 - Brian Rock - Your Brain at Work
 - Stanislav Dehaene - Consciousness and the Brain
 - Brian Kolb – Fundamentals of Human Neuropsychology
+- Peter O Gray & David Bjorklund – Psychology 
 -	... and anything by Oliver Sacks.  
 
 ####	Organization & Productivity
