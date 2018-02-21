@@ -1,6 +1,6 @@
 # Research
 
-The best primer on how the brain works is the first two parts of this WaitButWhy post: http://waitbutwhy.com/2017/04/neuralink.html
+The best primer on how the brain works is the first two parts of this ginormous WaitButWhy post: http://waitbutwhy.com/2017/04/neuralink.html
 
 ## Research on stress and productivity
 - "[The Global Benefits Attitudes survey](https://www.towerswatson.com/DownloadMedia.aspx?media=%7B581A704A-0635-43CA-8073-CB79D6FBCF52%7D) found that levels of workplace disengagement significantly increase when employees experience high levels of stress.  The study of 22,347 employees across 12 countries including the UK and US, revealed that over half of those employees claiming to be experiencing high stress levels reported they were disengaged.  By contrast, only one in ten employees claiming low stress levels reported they were disengaged and half of this group claimed to be highly engaged." 
@@ -79,7 +79,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 ## Other methods for reducing stress
 - Berkeley has put together an amazing site on the science and practice of gratitude. [Check it out.](http://greatergood.berkeley.edu/resources/studies#gratitude)
 - [The talking cure.](https://books.google.se/books?id=QFd02VbaJJMC&pg=PA227&lpg=PA227&dq=the+talking+cure+amygdala&source=bl&ots=bhJIwakquK&sig=cenfH1CHfaxGJDp4F8PXtYEkWaA&hl=sv&sa=X&ved=0ahUKEwiV573lgsnRAhXhDMAKHYCcDjAQ6AEIVDAH#v=onepage&q=the%20talking%20cure%20amygdala&f=false)
-- Walking as a method for reflection. http://www.newyorker.com/tech/elements/walking-helps-us-think
+- [Walking as a method for reflection.](http://www.newyorker.com/tech/elements/walking-helps-us-think)
 - Journaling: "[This study](http://apt.rcpsych.org/content/11/5/338.full) from the journal Advances in Psychiatric Treatment is a great experiment, and a solid summary of current research on the topic. In the piece, the researchers noted that 15–20 minutes on 3–5 occasions was enough to help the study participants deal with traumatic, stressful, or otherwise emotional events."
 
 ## Research on mental illness
@@ -94,7 +94,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - [Feeling bad about feeling bad can make you feel worse](http://www.sciencedirect.com/science/article/pii/S0005796705002068)
 - [On the amygdala's subconscious role.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025529/)
 - Short term goals linked to increase stress in the workplace. Page 35 of the psychosocial work environment PDF:  https://www.prevent.se/onhumanterms/
-- Does depression have a function? “If something is broken in your life, you need to bear down and mend it.” 3. Andrews, P.W. & Thomson Jr., J.A. The bright side of being blue: Depression as an adaptation for analyzing complex problems. Psychological Review 116, 620-654 (2009).
+- Does depression have a function? “If something is broken in your life, you need to bear down and mend it.” Andrews, P.W. & Thomson Jr., J.A. The bright side of being blue: Depression as an adaptation for analyzing complex problems. Psychological Review 116, 620-654 (2009).
 - [Amygdala size increase after traumatic experience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3647246/)
 - [Size, connectivity of brain region linked to anxiety level](https://www.eurekalert.org/pub_releases/2013-11/sumc-sco111413.php)
 
