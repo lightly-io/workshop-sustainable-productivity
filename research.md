@@ -97,6 +97,7 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - Does depression have a function? “If something is broken in your life, you need to bear down and mend it.” Andrews, P.W. & Thomson Jr., J.A. The bright side of being blue: Depression as an adaptation for analyzing complex problems. Psychological Review 116, 620-654 (2009).
 - [Amygdala size increase after traumatic experience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3647246/)
 - [Size, connectivity of brain region linked to anxiety level](https://www.eurekalert.org/pub_releases/2013-11/sumc-sco111413.php)
+- Adverse childhood experience will have a huge impact on your mental and physical health later in life. See the [CDC-Kaiser ACE Study](https://www.cdc.gov/violenceprevention/acestudy/about.html)
 
 ## Other
 - For an overview of the evolution of the human species, see [Wikipedias entry on homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens).
