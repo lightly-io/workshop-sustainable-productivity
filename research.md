@@ -17,6 +17,7 @@ The best primer on how the brain works is the first two parts of this ginormous 
 There is a bunch of research that shows the negative effects of stress on the body. Everything from immune system to memory creation is affected. Long-term stress might even [cause depressions](http://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037).
 
 - "Chronic stress may also cause disease, either because of changes in your body or the overeating, smoking and other bad habits people use to cope with stress. Job strain — high demands coupled with low decision-making latitude — is associated with increased risk of coronary disease, for example." [American Psychological Association](http://www.apa.org/helpcenter/stress.aspx)
+- [Stress correlated with, but not causing, cancer.](https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
 
 However, a Stanford researcher claims that stress only causes health to deteriorate when we view stress as something negative. As long as we look at our stress in a positive way, it's not harmful.
 
@@ -24,23 +25,22 @@ However, a Stanford researcher claims that stress only causes health to deterior
 
 There is another way to interpret this data. What if the respondents that report that they have a negative outlook on stress do that *because* they have experienced physical pain? Is this causation or correlation? We need further research to know for sure.
 
-- [Stress correlated with, but not causing, cancer.](https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet#q3)
-- [Challenge vs threat response.](http://www.sicotests.com/psyarticle.asp?id=281)
-- [A single question via SMS correlates well with burnout](https://academic.oup.com/occmed/article-abstract/doi/10.1093/occmed/kqx111/4084572/Work-related-stress-assessed-by-a-text-message?redirectedFrom=fulltext)
+- [Further reading on the challenge vs threat response.](http://www.sicotests.com/psyarticle.asp?id=281)
+
 - [An event which exceeds the ability to cope does not necessarily have to occur in order for one to experience stress, as the threat of such an event occurring can be sufficient.]( http://changingminds.org/explanations/theories/cognitive_appraisal_theories.htm)
 - “The data showed that people with greater upper body strength were less likely to suffer depression.” 9. Hagen, E.H. & Rosenström, T. Explaining the sex difference in depression with a unified bargaining model of anger and depression. Evolution, Medicine, & Public Health 1, 117-132 (2016).
 - [Hill perceived more slant when we don't feel like we have support.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3291107/)
-- [Men working in **human services** occupations like social work, healthcare, childcare and teaching are up to twice as likely as those in any other occupation to use antidepressants.] (http://oem.bmj.com/content/early/2018/01/25/oemed-2017-104803)
+- [Men working in **human services** occupations like social work, healthcare, childcare and teaching are up to twice as likely as those in any other occupation to use antidepressants.](http://oem.bmj.com/content/early/2018/01/25/oemed-2017-104803)
+- We can start measuring burnout and prevent it: [a single question via SMS on work-related stress correlates well with burnout](https://academic.oup.com/occmed/article-abstract/doi/10.1093/occmed/kqx111/4084572/Work-related-stress-assessed-by-a-text-message?redirectedFrom=fulltext)
 
-## Simple reads on science & meditation
+## Research on meditation
+There has been many studies on meditation in the last years. It has been proven to improve everything from immune system to psoriasis. However, few of the studies have had a double-blind placebo control group, so it's hard to know if these effects are caused by placebo. You could argue that if it works, it works. Or maybe it's just good to sit down for a while and chill for half an hour every day. We don't know yet.
+
 - [The science of meditation](https://www.youtube.com/watch?v=Aw71zanwMnY) 
 - [The science of slow breathing](https://www.psychologytoday.com/blog/the-neuroscience-mindfulness/201602/the-science-slow-deep-breathing)
 - [Mind mechanics of mindfulness, visualized](https://prezi.com/uzxlufuhqpae/mind-mechanics-mindfulness-visualized/?utm_campaign=share&utm_medium=copy)
 - [What does mindfulness meditation do to your brain?](http://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/)
 - [Harvard: Evidence based research, mindfulness](http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness)
-
-## Research on meditation
-There has been many studies on meditation in the last years. It has been proven to improve everything from immune system to psoriasis. However, few of the studies have had a double-blind placebo control group, so it's hard to know if these effects are caused by placebo. You could argue that if it works, it works. Or maybe it's just good to sit down for a while and chill for half an hour every day. We don't know yet.
 
 Here's a list of studies on meditation, and what they say they've proven that it affects:
 
