@@ -103,4 +103,4 @@ Here's a list of studies on meditation, and what they say they've proven that it
 - For an overview of the evolution of the human species, see [Wikipedias entry on homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens).
 - RescueTime's data on how much time we spend on Slack and email. https://blog.rescuetime.com/225-million-hours-productivity/
 - Infants get angered when they can’t control the situation; even when the outcome is the same. Humans have survived by controlling their environment. (Psychology, 7th Edition by Peter O Gray, David F Bjorklund)
-- Should you focus on giving stress management resources to the individual, group, leader or organization? [This study] (https://www.tandfonline.com/doi/full/10.1080/02678373.2017.1304463?src=recsys) suggest the results are equal, no matter which level you add resources to. 
+- Should you focus on giving stress management resources to the individual, group, leader or organization? [This study](https://www.tandfonline.com/doi/full/10.1080/02678373.2017.1304463?src=recsys) suggest the results are equal, no matter which level you add resources to. 
