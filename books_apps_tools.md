@@ -105,7 +105,7 @@ I recommend looking at Amazon reviews for all of these products before ordering 
 - [How chronic stress affects your brain](https://www.facebook.com/TEDEducation/videos/1127655593914312/)
 
 ## Helpful articles
-- [Just breathe - the body hos a build in stress-reliever (NPR)](http://www.npr.org/2010/12/06/131734718/just-breathe-body-has-a-built-in-stress-reliever)
+- [Just breathe - the body has a build in stress-reliever (NPR)](http://www.npr.org/2010/12/06/131734718/just-breathe-body-has-a-built-in-stress-reliever)
 - [7 ways meditation can actually change the brain (Forbes)](http://www.forbes.com/sites/alicegwalton/2015/02/09/7-ways-meditation-can-actually-change-the-brain/)
 - [Evidence based research on mindfulness (Harvard)](http://evp.harvard.edu/book/where-can-i-find-evidence-based-research-mindfulness)
 - [How to meditate (NYT)](http://www.nytimes.com/well/guides/how-to-meditate?emc=edit_ne_20160908&nl=evening-briefing&nlid=72964445&te=1)
