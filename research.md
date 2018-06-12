@@ -27,6 +27,7 @@ However, a Stanford researcher claims that stress only causes health to deterior
 There is another way to interpret this data. What if the respondents that report that they have a negative outlook on stress do that *because* they have experienced physical pain? Is this causation or correlation? We need further research to know for sure.
 
 - [Further reading on the challenge vs threat response.](http://www.sicotests.com/psyarticle.asp?id=281)
+- [Brain damange as result of burnout.](https://www.op.se/artikel/jamtland/ostersund/det-handlar-om-verkliga-hjarnskador)
 
 - [An event which exceeds the ability to cope does not necessarily have to occur in order for one to experience stress, as the threat of such an event occurring can be sufficient.]( http://changingminds.org/explanations/theories/cognitive_appraisal_theories.htm)
 - “The data showed that people with greater upper body strength were less likely to suffer depression.” 9. Hagen, E.H. & Rosenström, T. Explaining the sex difference in depression with a unified bargaining model of anger and depression. Evolution, Medicine, & Public Health 1, 117-132 (2016).
