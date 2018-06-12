@@ -11,6 +11,7 @@ I've put a star (*) next to the books I think you'll find most rewarding. You ca
 -	Michio Kaku – The Future of The Mind
 -	Daniel Levitin – The Organized Mind  
 -	Hana Ros & Matteo Farinella – Neurocomic  
+- Peter Godfrey-Smith - Other Minds *
 -	Steven Pinker – How The Mind Works
 - V.S. Ramachandran – Phantoms in the Brain
 - Brian Rock - Your Brain at Work
